@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Xiyuan&#39;s Personal Website</title>
+    <link>https://xiyuanbao.github.io/tags/</link>
+    <description>Recent content in Tags on Xiyuan&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Xiyuan Bao</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0800</lastBuildDate>
+    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Academic</title>
+      <link>https://xiyuanbao.github.io/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://xiyuanbao.github.io/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmark on Citcom Ellipsis</title>
+      <link>https://xiyuanbao.github.io/tags/benchmark-on-citcom-ellipsis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiyuanbao.github.io/tags/benchmark-on-citcom-ellipsis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Topography</title>
+      <link>https://xiyuanbao.github.io/tags/dynamic-topography/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiyuanbao.github.io/tags/dynamic-topography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoid</title>
+      <link>https://xiyuanbao.github.io/tags/geoid/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiyuanbao.github.io/tags/geoid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://xiyuanbao.github.io/tags/hugo/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://xiyuanbao.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll</title>
+      <link>https://xiyuanbao.github.io/tags/jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0800</pubDate>
+      
+      <guid>https://xiyuanbao.github.io/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Llsvp</title>
+      <link>https://xiyuanbao.github.io/tags/llsvp/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiyuanbao.github.io/tags/llsvp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National Innovation Program</title>
+      <link>https://xiyuanbao.github.io/tags/national-innovation-program/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiyuanbao.github.io/tags/national-innovation-program/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summer Intern</title>
+      <link>https://xiyuanbao.github.io/tags/summer-intern/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiyuanbao.github.io/tags/summer-intern/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
