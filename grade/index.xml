@@ -11,12 +11,322 @@
     <atom:link href="/grade/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>GPA in different ways</title>
+      <link>https://xiyuanbao.github.io/grade/gpa/</link>
+      <pubDate>Sat, 30 Sep 2017 12:32:54 +0800</pubDate>
+      
+      <guid>https://xiyuanbao.github.io/grade/gpa/</guid>
+      <description>
+
+&lt;h1 id=&#34;my-major-gpa&#34;&gt;My major GPA&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Improved 4.0 - 1&lt;/th&gt;
+&lt;th&gt;Improved 4.0 - 2&lt;/th&gt;
+&lt;th&gt;PKU 4.0&lt;/th&gt;
+&lt;th&gt;Canada 4.3&lt;/th&gt;
+&lt;th&gt;USTC 4.3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;3.63&lt;/td&gt;
+&lt;td&gt;3.63&lt;/td&gt;
+&lt;td&gt;3.59&lt;/td&gt;
+&lt;td&gt;3.95&lt;/td&gt;
+&lt;td&gt;3.63&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&#34;gpa-in-ustc&#34;&gt;GPA in USTC&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;0~100&lt;/th&gt;
+&lt;th&gt;F-A&lt;/th&gt;
+&lt;th&gt;0~4.3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;100~95&lt;/td&gt;
+&lt;td&gt;A+&lt;/td&gt;
+&lt;td&gt;4.3&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;94~90&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;4.0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;89~85&lt;/td&gt;
+&lt;td&gt;A-&lt;/td&gt;
+&lt;td&gt;3.7&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;84~82&lt;/td&gt;
+&lt;td&gt;B+&lt;/td&gt;
+&lt;td&gt;3.3&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;81~78&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;td&gt;3.0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;77~75&lt;/td&gt;
+&lt;td&gt;B-&lt;/td&gt;
+&lt;td&gt;2.7&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;74~72&lt;/td&gt;
+&lt;td&gt;C+&lt;/td&gt;
+&lt;td&gt;2.3&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;71~68&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;td&gt;2.0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;64&lt;/td&gt;
+&lt;td&gt;D+&lt;/td&gt;
+&lt;td&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;67~65&lt;/td&gt;
+&lt;td&gt;C-&lt;/td&gt;
+&lt;td&gt;1.7&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;63~61&lt;/td&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;td&gt;1.3&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;60&lt;/td&gt;
+&lt;td&gt;D-&lt;/td&gt;
+&lt;td&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&amp;lt;60&lt;/td&gt;
+&lt;td&gt;F&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&#34;improved-4-0-1&#34;&gt;Improved 4.0-1&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;0~100&lt;/th&gt;
+&lt;th&gt;0~4&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;100～85&lt;/td&gt;
+&lt;td&gt;4.0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;84～70&lt;/td&gt;
+&lt;td&gt;3.0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;69～60&lt;/td&gt;
+&lt;td&gt;2.0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;59～0&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&#34;improved-4-0-2&#34;&gt;Improved 4.0-2&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;0~100&lt;/th&gt;
+&lt;th&gt;0~4&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;100～85&lt;/td&gt;
+&lt;td&gt;4.0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;84～75&lt;/td&gt;
+&lt;td&gt;3.0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;74～60&lt;/td&gt;
+&lt;td&gt;2.0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;59～0&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&#34;gpa-in-peking-univeristy&#34;&gt;GPA in Peking Univeristy&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;0~100&lt;/th&gt;
+&lt;th&gt;0~4&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;100～90&lt;/td&gt;
+&lt;td&gt;4.0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;89～85&lt;/td&gt;
+&lt;td&gt;3.7&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;81～78&lt;/td&gt;
+&lt;td&gt;3.0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;84～82&lt;/td&gt;
+&lt;td&gt;3.3&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;77～75&lt;/td&gt;
+&lt;td&gt;2.7&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;74～72&lt;/td&gt;
+&lt;td&gt;2.3&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;71～68&lt;/td&gt;
+&lt;td&gt;2.0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;67～64&lt;/td&gt;
+&lt;td&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;63～60&lt;/td&gt;
+&lt;td&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;59～0&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&#34;gpa-in-canada&#34;&gt;GPA in Canada&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;0~100&lt;/th&gt;
+&lt;th&gt;0~4.3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;100～90&lt;/td&gt;
+&lt;td&gt;4.3&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;89～85&lt;/td&gt;
+&lt;td&gt;4.0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;84～80&lt;/td&gt;
+&lt;td&gt;3.7&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;79～75&lt;/td&gt;
+&lt;td&gt;3.3&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;74～70&lt;/td&gt;
+&lt;td&gt;3.0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;69～65&lt;/td&gt;
+&lt;td&gt;2.7&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;64～60&lt;/td&gt;
+&lt;td&gt;2.3&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;59～0&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Grades</title>
       <link>https://xiyuanbao.github.io/grade/grade/</link>
       <pubDate>Sat, 30 Sep 2017 12:32:54 +0800</pubDate>
       
       <guid>https://xiyuanbao.github.io/grade/grade/</guid>
       <description>
+
+&lt;p&gt;I got good grades in most of my specialized courses, e.g. Principle and Application of Seismology(92), Engineering Geology(98), Theory of Geoelectricity and Geomagnetism(95), The Garvity and the Tide of the Earth(95) and Electrodynamics(95). I believe coding is a powerful tool to realize my ideas , which is the reason why I choose half of the courses in CS degree, i.e. C++, Data Structure, Discrete Mathematics, Principles of artificial intelligence and Principles of Computer Organization. At the same time I learned C, Python, Matlab and a bit Fortran on my own. And in Geophysical Foundation Experiment I was trained to use GMT, SAC, etc.on Linux.&lt;/p&gt;
 
 &lt;h2 id=&#34;gpa-in-ustc&#34;&gt;GPA in USTC&lt;/h2&gt;
 
@@ -110,7 +420,11 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&#34;major-geophysics-gpa-3-63-4-30-86-68-100&#34;&gt;Major:Geophysics GPA:3.63 / 4.30 86.68 / 100&lt;/h2&gt;
+&lt;h2 id=&#34;major-geophysics&#34;&gt;Major:Geophysics&lt;/h2&gt;
+
+&lt;h3 id=&#34;gpa-3-63-4-30-86-68-100-different-rules-hahahugoshortcode-1hbhb&#34;&gt;GPA:3.63 / 4.30  86.68 / 100 (&lt;a href=&#34;https://xiyuanbao.github.io/grade/gpa/&#34; target=&#34;_blank&#34;&gt;different rules&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;h3 id=&#34;ranking-12-51-4-in-the-third-year-comprehensive-ranking&#34;&gt;Ranking:&lt;sup&gt;12&lt;/sup&gt;&amp;frasl;&lt;sub&gt;51&lt;/sub&gt; ,  4 in the third year (comprehensive ranking)&lt;/h3&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
