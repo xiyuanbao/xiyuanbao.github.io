@@ -33,11 +33,11 @@
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;3.63&lt;/td&gt;
-&lt;td&gt;3.63&lt;/td&gt;
-&lt;td&gt;3.59&lt;/td&gt;
-&lt;td&gt;3.95&lt;/td&gt;
-&lt;td&gt;3.63&lt;/td&gt;
+&lt;td&gt;3.64&lt;/td&gt;
+&lt;td&gt;3.64&lt;/td&gt;
+&lt;td&gt;3.60&lt;/td&gt;
+&lt;td&gt;3.96&lt;/td&gt;
+&lt;td&gt;3.64&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -103,15 +103,15 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;64&lt;/td&gt;
-&lt;td&gt;D+&lt;/td&gt;
-&lt;td&gt;1.5&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
 &lt;td&gt;67~65&lt;/td&gt;
 &lt;td&gt;C-&lt;/td&gt;
 &lt;td&gt;1.7&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;64&lt;/td&gt;
+&lt;td&gt;D+&lt;/td&gt;
+&lt;td&gt;1.5&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -389,15 +389,15 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;64&lt;/td&gt;
-&lt;td&gt;D+&lt;/td&gt;
-&lt;td&gt;1.5&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
 &lt;td&gt;67~65&lt;/td&gt;
 &lt;td&gt;C-&lt;/td&gt;
 &lt;td&gt;1.7&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;64&lt;/td&gt;
+&lt;td&gt;D+&lt;/td&gt;
+&lt;td&gt;1.5&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -422,7 +422,7 @@
 
 &lt;h2 id=&#34;major-geophysics&#34;&gt;Major:Geophysics&lt;/h2&gt;
 
-&lt;h3 id=&#34;gpa-3-63-4-30-86-68-100-different-rules-hahahugoshortcode-1hbhb&#34;&gt;GPA:3.63 / 4.30  86.68 / 100 (&lt;a href=&#34;https://xiyuanbao.github.io/grade/gpa/&#34; target=&#34;_blank&#34;&gt;different rules&lt;/a&gt;)&lt;/h3&gt;
+&lt;h3 id=&#34;gpa-3-64-4-30-86-85-100-different-rules-hahahugoshortcode-1hbhb&#34;&gt;GPA:3.64 / 4.30  86.85 / 100 (&lt;a href=&#34;https://xiyuanbao.github.io/grade/gpa/&#34; target=&#34;_blank&#34;&gt;different rules&lt;/a&gt;)&lt;/h3&gt;
 
 &lt;h3 id=&#34;ranking-12-51-4-in-the-third-year-comprehensive-ranking&#34;&gt;Ranking:&lt;sup&gt;12&lt;/sup&gt;&amp;frasl;&lt;sub&gt;51&lt;/sub&gt; ,  4 in the third year (comprehensive ranking)&lt;/h3&gt;
 
@@ -791,6 +791,14 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td&gt;2016SP&lt;/td&gt;
+&lt;td&gt;Quantum Mechanics C&lt;/td&gt;
+&lt;td&gt;79&lt;/td&gt;
+&lt;td&gt;60&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
@@ -895,11 +903,11 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;2016SP&lt;/td&gt;
-&lt;td&gt;Quantum Mechanics C&lt;/td&gt;
-&lt;td&gt;79&lt;/td&gt;
-&lt;td&gt;60&lt;/td&gt;
-&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;2017FA&lt;/td&gt;
+&lt;td&gt;Undergraduate Research Program&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;N/A&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -976,7 +984,9 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://xiyuanbao.github.io/project/benchmark-on-citcom--ellipsis/</guid>
-      <description>&lt;p&gt;Origin of the two LLSVPs inside the lower mantle is heavily debated,from purely thermal to purely compositional. These features are presumably very important for modulating Earth’s long-term evolution such as the main heat source for generating mantle plumes and surface volcanism. We want to place better constraints on these mantle structures through examining their geodynamic properties.&lt;/p&gt;
+      <description>&lt;p&gt;Compared to earlier softwares, Citcom-Ellipsis can provide better performance to solve mantle convetive problems, e.g. with this new code you are able to explore viscoelasticity and use Lagrange particle tracking to probe deformation.&lt;/p&gt;
+
+&lt;p&gt;After debugging, benchmark work is now needed. Currently I am reading papers about the core of Citcom and Ellipsis, including finite element algorithm and effects of different viscosity on convection.&lt;/p&gt;
 </description>
     </item>
     
@@ -986,7 +996,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://xiyuanbao.github.io/project/national-innovation-program/</guid>
-      <description>&lt;p&gt;As the leader of our National Innovation Program of China sponsored by Ministry of Education of China, my role is to examine the possibility of certain origin of LLSVPs together with another teammate, using better velocity structure provided by the third member in this program.&lt;/p&gt;
+      <description>&lt;p&gt;As the leader of our National Innovation Program of China sponsored by Ministry of Education of China, my role is to examine the possibility of certain origin of LLSVPs together with another teammate, using better velocity structure provided by the third member in this program.Util now we are still doing literature research.&lt;/p&gt;
 </description>
     </item>
     
@@ -996,9 +1006,15 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://xiyuanbao.github.io/project/summer-intern/</guid>
-      <description>&lt;p&gt;Origin of the two LLSVPs inside the lower mantle is heavily debated,from purely thermal to purely compositional. These features are presumably very important for modulating Earth’s long-term evolution such as the main heat source for generating mantle plumes and surface volcanism. We want to place better constraints on these mantle structures through examining their geodynamic properties.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;With the finite element code &lt;a href=&#34;https://geodynamics.org/cig/software/citcoms/&#34; target=&#34;_blank&#34;&gt;CitcomS&lt;/a&gt;, I built a thermal chemical model to explore the response of different viscosity profile (and LVV,lateral viscosity variation) , scaling between tomography and density and chemical buoyancy. Some progress has been made but now I am still trying to seek a best fit to observation in my model.&lt;/p&gt;
+&lt;h3 id=&#34;constraining-the-nature-of-the-llsvps-using-observations-of-geoid-and-dynamic-topography&#34;&gt;Constraining the nature of the LLSVPs using observations of geoid and dynamic topography&lt;/h3&gt;
+
+&lt;p&gt;Origin of the two LLSVPs inside the lower mantle is heavily debated,from purely thermal to purely compositional. These features are presumably very important for modulating Earth’s long-term evolution such as the main heat source for generating mantle plumes and surface volcanism. We want to place better constraints on these mantle structures through examining their geodynamic properties.&lt;/p&gt;
+
+&lt;p&gt;With the finite element code &lt;a href=&#34;https://geodynamics.org/cig/software/citcoms/&#34; target=&#34;_blank&#34;&gt;CitcomS&lt;/a&gt;, I built a thermal chemical model to explore the response of different viscosity profile (and LVV,lateral viscosity variation) , scaling between tomography and density and chemical buoyancy. Some progress has been made but now I am still trying to seek a best fit to observation in my model. You can get more information from my &lt;a href=&#34;https://xiyuanbao.github.io/summer-intern/Report.pdf&#34;/&gt;report&lt;/a&gt;
+ and &lt;a href=&#34;https://xiyuanbao.github.io/summer-intern/Figure.pdf&#34;/&gt;figures&lt;/a&gt;
+(too much figures, divided version is more reading-friendly).&lt;/p&gt;
 </description>
     </item>
     

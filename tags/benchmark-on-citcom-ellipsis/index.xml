@@ -16,7 +16,9 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://xiyuanbao.github.io/project/benchmark-on-citcom--ellipsis/</guid>
-      <description>&lt;p&gt;Origin of the two LLSVPs inside the lower mantle is heavily debated,from purely thermal to purely compositional. These features are presumably very important for modulating Earth’s long-term evolution such as the main heat source for generating mantle plumes and surface volcanism. We want to place better constraints on these mantle structures through examining their geodynamic properties.&lt;/p&gt;
+      <description>&lt;p&gt;Compared to earlier softwares, Citcom-Ellipsis can provide better performance to solve mantle convetive problems, e.g. with this new code you are able to explore viscoelasticity and use Lagrange particle tracking to probe deformation.&lt;/p&gt;
+
+&lt;p&gt;After debugging, benchmark work is now needed. Currently I am reading papers about the core of Citcom and Ellipsis, including finite element algorithm and effects of different viscosity on convection.&lt;/p&gt;
 </description>
     </item>
     
