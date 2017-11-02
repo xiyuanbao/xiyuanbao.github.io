@@ -16,7 +16,7 @@
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
       
       <guid>https://xiyuanbao.github.io/post/geomagnetism/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rsta.royalsocietypublishing.org/content/243/859/67&#34; target=&#34;_blank&#34;&gt;Westward drift of the non-dipole part&lt;/a&gt; is nature of great importance of the Geomagnetic field. In the class:Theory of Geoelectricity and Geomagnetism we were asked to visualize this trend. Using spherical harmonic coefficients from &lt;a href=&#34;https://www.ngdc.noaa.gov/IAGA/vmod/igrf.html&#34; target=&#34;_blank&#34;&gt;IGRF&lt;/a&gt; (International Geomagnetic Reference Field) to 12 degree I was able to plot the z component of non-dipole field from 1900 to 2015 with Matlab and combine them in a GIF, you can see the drift is very obvious.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://rsta.royalsocietypublishing.org/content/243/859/67&#34; target=&#34;_blank&#34;&gt;Westward drift of the non-dipole part&lt;/a&gt; is nature of great importance of the Geomagnetic field. In the class:Theory of Geoelectricity and Geomagnetism we were asked to visualize this trend. Using spherical harmonic coefficients from &lt;a href=&#34;https://www.ngdc.noaa.gov/IAGA/vmod/igrf.html&#34; target=&#34;_blank&#34;&gt;IGRF&lt;/a&gt; (International Geomagnetic Reference Field) up to 12 degree I was able to plot the z component of non-dipole field from 1900 to 2015 with Matlab and combine them in a GIF, you can see the drift is very obvious.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://xiyuanbao.github.io/img/geomagnet/zmagnet.gif&#34; alt=&#34;GIF&#34; /&gt;&lt;/p&gt;
 </description>
