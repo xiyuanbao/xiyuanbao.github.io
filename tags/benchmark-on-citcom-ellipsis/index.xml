@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Xiyuan Bao</copyright>
     <lastBuildDate>Sat, 30 Sep 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/benchmark-on-citcom-ellipsis/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://xiyuanbao.github.io/tags/benchmark-on-citcom-ellipsis/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Benchmark on Citcom Ellipsis</title>
@@ -16,15 +18,10 @@
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://xiyuanbao.github.io/project/benchmark-on-citcom-ellipsis/</guid>
-      <description>&lt;p&gt;Compared to earlier softwares, Citcom-Ellipsis can provide better performance to solve mantle convetive problems, e.g. with this new code you are able to explore viscoelasticity and use Lagrange particle tracking to probe deformation.&lt;/p&gt;
-
-&lt;p&gt;After debugging, benchmark work is now needed. Currently I am reading papers about the core of Citcom and Ellipsis, including finite element algorithm and effects of different viscosity on convection.&lt;/p&gt;
-
-&lt;p&gt;reference:&lt;/p&gt;
-
-&lt;p&gt;Shijie Zhong: &lt;a href=&#34;https://xiyuanbao.github.io/c-e/finite_element_note.pdf&#34;/&gt;A Note on Finite Element Formulation for Mantle Convection&lt;/a&gt;
-&lt;/p&gt;
-</description>
+      <description>Compared to earlier softwares, Citcom-Ellipsis can provide better performance to solve mantle convetive problems, e.g. with this new code you are able to explore viscoelasticity and use Lagrange particle tracking to probe deformation.
+After debugging, benchmark work is now needed. Currently I am reading papers about the core of Citcom and Ellipsis, including finite element algorithm and effects of different viscosity on convection.
+reference:
+Shijie Zhong: A Note on Finite Element Formulation for Mantle Convection </description>
     </item>
     
   </channel>

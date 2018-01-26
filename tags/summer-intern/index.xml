@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Xiyuan Bao</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/summer-intern/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://xiyuanbao.github.io/tags/summer-intern/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Summer Intern</title>
@@ -16,14 +18,8 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://xiyuanbao.github.io/project/summer-intern/</guid>
-      <description>&lt;p&gt;Origin of the two LLSVPs inside the lower mantle is heavily debated,from purely thermal to purely compositional. These features are presumably very important for modulating Earth’s long-term evolution such as the main heat source for generating mantle plumes and surface volcanism. We want to place better constraints on these mantle structures through examining their geodynamic properties.&lt;/p&gt;
-
-&lt;p&gt;With the finite element code &lt;a href=&#34;https://geodynamics.org/cig/software/citcoms/&#34; target=&#34;_blank&#34;&gt;CitcomS&lt;/a&gt;, I built a thermal chemical model to explore the response of different viscosity profile (and LVV,lateral viscosity variation) , scaling between tomography and density and chemical buoyancy. Some progress has been made but now I am still trying to seek a best fit to observation in my model.&lt;/p&gt;
-
-&lt;p&gt;You can get more information from my &lt;a href=&#34;https://xiyuanbao.github.io/summer-intern/Report.pdf&#34;/&gt;report&lt;/a&gt;
- and &lt;a href=&#34;https://xiyuanbao.github.io/summer-intern/Figure.pdf&#34;/&gt;figures&lt;/a&gt;
- (too much figures, divided version is more reading-friendly).&lt;/p&gt;
-</description>
+      <description>Origin of the two LLSVPs inside the lower mantle is heavily debated,from purely thermal to purely compositional. These features are presumably very important for modulating Earth’s long-term evolution such as the main heat source for generating mantle plumes and surface volcanism. We want to place better constraints on these mantle structures through examining their geodynamic properties.
+With the finite element code CitcomS, I built a thermal chemical model to explore the response of different viscosity profile (and LVV,lateral viscosity variation) , scaling between tomography and density and chemical buoyancy.</description>
     </item>
     
   </channel>

@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Xiyuan Bao</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
-    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://xiyuanbao.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Field trip at Chaohu, Anhui</title>
@@ -16,33 +18,8 @@
       <pubDate>Sun, 08 Oct 2017 00:00:00 +0800</pubDate>
       
       <guid>https://xiyuanbao.github.io/post/chaohu/</guid>
-      <description>&lt;p&gt;7-day geology field trip at Chaohu during the holiday of National Day&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://xiyuanbao.github.io/img/chaohu/1.jpg&#34; alt=&#34;1&#34; /&gt;
-&lt;img src=&#34;https://xiyuanbao.github.io/img/chaohu/2.jpg&#34; alt=&#34;2&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;fault coal
-&lt;img src=&#34;https://xiyuanbao.github.io/img/chaohu/3.jpg&#34; alt=&#34;fault coal&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;fossil of Algae
-&lt;img src=&#34;https://xiyuanbao.github.io/img/chaohu/4.jpg&#34; alt=&#34;fossil of Algae&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;fault
-&lt;img src=&#34;https://xiyuanbao.github.io/img/chaohu/5.jpg&#34; alt=&#34;fault&#34; /&gt;
-&lt;img src=&#34;https://xiyuanbao.github.io/img/chaohu/6.jpg&#34; alt=&#34;6&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;core of syncline
-&lt;img src=&#34;https://xiyuanbao.github.io/img/chaohu/7.jpg&#34; alt=&#34;core of syncline&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;dislocation breccia
-&lt;img src=&#34;https://xiyuanbao.github.io/img/chaohu/8.jpg&#34; alt=&#34;dislocation breccia&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;snail
-&lt;img src=&#34;https://xiyuanbao.github.io/img/chaohu/9.jpg&#34; alt=&#34;snail&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;guys
-&lt;img src=&#34;https://xiyuanbao.github.io/img/chaohu/10.jpg&#34; alt=&#34;guys&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>7-day geology field trip at Chaohu during the holiday of National Day
+fault coal fossil of Algae fault core of syncline dislocation breccia snail guys </description>
     </item>
     
     <item>
@@ -51,10 +28,7 @@
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
       
       <guid>https://xiyuanbao.github.io/post/geomagnetism/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://rsta.royalsocietypublishing.org/content/243/859/67&#34; target=&#34;_blank&#34;&gt;Westward drift of the non-dipole part&lt;/a&gt; is nature of great importance of the Geomagnetic field. In the class:Theory of Geoelectricity and Geomagnetism we were asked to visualize this trend. Using spherical harmonic coefficients from &lt;a href=&#34;https://www.ngdc.noaa.gov/IAGA/vmod/igrf.html&#34; target=&#34;_blank&#34;&gt;IGRF&lt;/a&gt; (International Geomagnetic Reference Field) up to 12 degree I was able to plot the z component of non-dipole field from 1900 to 2015 with Matlab and combine them in a GIF, you can see the drift is very obvious.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://xiyuanbao.github.io/img/geomagnet/zmagnet.gif&#34; alt=&#34;GIF&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Westward drift of the non-dipole part is nature of great importance of the Geomagnetic field. In the class:Theory of Geoelectricity and Geomagnetism we were asked to visualize this trend. Using spherical harmonic coefficients from IGRF (International Geomagnetic Reference Field) up to 12 degree I was able to plot the z component of non-dipole field from 1900 to 2015 with Matlab and combine them in a GIF, you can see the drift is very obvious.</description>
     </item>
     
     <item>
@@ -63,16 +37,7 @@
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
       
       <guid>https://xiyuanbao.github.io/post/sensor/</guid>
-      <description>&lt;p&gt;In the final project of Principles of artificial intelligence, we managed to establish a neural network using tensorflow , tflearn and sklearn. We wrote our own JS collecting program and then analyzed the wave of motion sensors of smartphones and defined an touching event. Better than previous study deducing only 4-digit PIN, our model can give coordinates of the touching location on the phone screen and successfully recognized a sentence.&lt;/p&gt;
-
-&lt;p&gt;In the GIF below, we used the output coordinates of neural network as input to click the keyboard, only one letter(x-&amp;gt;c) was wrong but with auto-correction we succeeded in re-creating the sentence: A secret!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://xiyuanbao.github.io/img/sensor/sensor.gif&#34; alt=&#34;GIF&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;For more information, please browse our &lt;a href=&#34;https://xiyuanbao.github.io/sensor/sensor.pdf&#34;/&gt;slides(English)&lt;/a&gt;
- and &lt;a href=&#34;https://xiyuanbao.github.io/sensor/sensor_report.pdf&#34;/&gt;report(Chinese)&lt;/a&gt;
-.&lt;/p&gt;
-</description>
+      <description>In the final project of Principles of artificial intelligence, we managed to establish a neural network using tensorflow , tflearn and sklearn. We wrote our own JS collecting program and then analyzed the wave of motion sensors of smartphones and defined an touching event. Better than previous study deducing only 4-digit PIN, our model can give coordinates of the touching location on the phone screen and successfully recognized a sentence.</description>
     </item>
     
   </channel>

@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Xiyuan Bao</copyright>
     <lastBuildDate>Wed, 20 Sep 2017 00:00:00 +0800</lastBuildDate>
-    <atom:link href="/tags/machine-learning/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://xiyuanbao.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Touch location learning of phone screen basing motion sensors</title>
@@ -16,16 +18,7 @@
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
       
       <guid>https://xiyuanbao.github.io/post/sensor/</guid>
-      <description>&lt;p&gt;In the final project of Principles of artificial intelligence, we managed to establish a neural network using tensorflow , tflearn and sklearn. We wrote our own JS collecting program and then analyzed the wave of motion sensors of smartphones and defined an touching event. Better than previous study deducing only 4-digit PIN, our model can give coordinates of the touching location on the phone screen and successfully recognized a sentence.&lt;/p&gt;
-
-&lt;p&gt;In the GIF below, we used the output coordinates of neural network as input to click the keyboard, only one letter(x-&amp;gt;c) was wrong but with auto-correction we succeeded in re-creating the sentence: A secret!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://xiyuanbao.github.io/img/sensor/sensor.gif&#34; alt=&#34;GIF&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;For more information, please browse our &lt;a href=&#34;https://xiyuanbao.github.io/sensor/sensor.pdf&#34;/&gt;slides(English)&lt;/a&gt;
- and &lt;a href=&#34;https://xiyuanbao.github.io/sensor/sensor_report.pdf&#34;/&gt;report(Chinese)&lt;/a&gt;
-.&lt;/p&gt;
-</description>
+      <description>In the final project of Principles of artificial intelligence, we managed to establish a neural network using tensorflow , tflearn and sklearn. We wrote our own JS collecting program and then analyzed the wave of motion sensors of smartphones and defined an touching event. Better than previous study deducing only 4-digit PIN, our model can give coordinates of the touching location on the phone screen and successfully recognized a sentence.</description>
     </item>
     
   </channel>
