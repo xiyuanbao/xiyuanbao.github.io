@@ -907,3 +907,11 @@ body.quarto-light .embed-pdf,
   font-style: italic;
   font-weight: 500;
 }
+
+@media (max-width: 860px) {
+  .profile-card {
+    position: static !important;
+    top: auto !important;
+    margin-bottom: 2rem !important;
+  }
+}
