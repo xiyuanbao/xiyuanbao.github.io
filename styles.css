@@ -908,10 +908,17 @@ body.quarto-light .embed-pdf,
   font-weight: 500;
 }
 
-@media (max-width: 860px) {
+@media (max-width: 1024px) {
   .profile-card {
     position: static !important;
     top: auto !important;
     margin-bottom: 2rem !important;
+  }
+}
+
+@media (hover: none) and (pointer: coarse) {
+  .profile-card {
+    position: static !important;
+    top: auto !important;
   }
 }
