@@ -4,6 +4,7 @@ project:
   pre-render:
   - scripts/split_bib.py
   - scripts/render_publications_to_qmd.py
+requirements: requirements.txt
 website:
   title: Xiyuan Bao
   navbar:

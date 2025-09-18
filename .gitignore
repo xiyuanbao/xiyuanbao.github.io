@@ -1,0 +1,15 @@
+# Quarto build artifacts
+/.quarto/
+_site/
+**/*.quarto_ipynb
+
+# Bibliography
+bib/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
