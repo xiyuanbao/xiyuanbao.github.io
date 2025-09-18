@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: _site
+  pre-render:
+  - scripts/split_bib.py
+  - scripts/render_publications_to_qmd.py
+website:
+  title: Xiyuan Bao
+  navbar:
+    background: light
+    #logo: assets/logo.jpeg
+    left:
+    - href: news.qmd
+      text: News
+    - href: research.qmd
+      text: Research
+    - href: publications.qmd
+      text: Publications
+    # - href: tools.qmd
+    #   text: Tools & Resources
+    - href: media.qmd
+      text: Media & Outreach
+    - href: gallery.qmd
+      text: Gallery
+    - href: cv.qmd
+      text: CV
+  page-navigation: true
+  search: true
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    code-link: true
+    anchor-sections: true
+    include-in-header:
+      text: '<link rel="preconnect" href="https://fonts.googleapis.com">
+
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+        '
+bibliography: references.bib

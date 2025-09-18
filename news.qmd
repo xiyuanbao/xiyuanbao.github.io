@@ -1,0 +1,12 @@
+---
+title: "News"
+listing:
+  contents:
+    - posts
+  sort: "date desc"
+  type: default
+  categories: false
+  feed: false
+---
+
+All news and updates.

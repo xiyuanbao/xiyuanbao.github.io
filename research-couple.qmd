@@ -1,0 +1,35 @@
+---
+title: "Surface Processes and Coupling with Planetary Interiors"
+bibliography: bib/interior-surface-coupling.bib
+csl: csl/no-author-substitute.csl
+nocite: |
+  @*
+---
+
+![Scientists boarding D/V JOIDES Resolution off
+New Jersey in 1993. Sea level in an ice-free
+world would be 66 meters (216.5 feet) higher
+than now—shoulder-high to the Statue of
+Liberty. Image credit: Kenneth G. Miller, James
+V. Browning, and Gregory S. Mountain
+](assets/sealevel.jpg)
+
+How do surface processes shape the environment we live in,
+and how do they interact with the solid Earth interior, with implications for planetary evolution and habitability?
+
+My work on surface processes and interior-surface coupling focuses on:
+
+- The interplay among sea level change, cryosphere, and the solid Earth [@a7Bao2025b;@b7Lucas2025a;@b5Coulson2025a] 
+
+![Predicted (left) and observed (right) sea levels caused by melting of the Greenland Ice Sheet (GrIS). A statistically significant correlation between the two fields (P < 0.001) provides an unambiguous observational detection of the near-field sea level fingerprint of recent GrIS melting in our warming world. Graphic: Coulson, et al., 2022 / Science
+](assets/fingerprint_coulson.png)
+
+- Volatile cycling among different spheres of the Earth system over billions of years [@b6Bao2023d]
+
+
+
+
+## Related Work
+
+::: {#refs}
+:::

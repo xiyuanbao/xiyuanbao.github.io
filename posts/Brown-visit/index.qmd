@@ -1,0 +1,14 @@
+---
+title: "Inivited talk at Brown University"
+image: brown.jpg
+date: 2025-03-05
+---
+
+![](brown.jpg)
+
+I was inivited to talk about my experimental work 
+on plume dynamics at Department of 
+Earth, Environmental and Planetary Sciences (DEEPS), Brown University. 
+A day full of lovely interactions with folkd in the department!
+
+![](brown-nasa.jpg)

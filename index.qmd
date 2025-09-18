@@ -1,0 +1,85 @@
+---
+title: ""
+toc: false
+page-layout: full
+listing:
+  - id: latest-news
+    contents: "posts"
+    sort: "date desc"
+    max-items: 3
+    type: default
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    feed: false
+---
+
+::: {.home-grid}
+
+::: {.profile-card}
+![](assets/avatar.jpg)
+
+<div class="name">Xiyuan Bao</div>
+<div class="role">Daly Postdoctoral Fellow, Department of Earth and Planetary Sciences, Harvard University</div>
+<div>Research: Mantle Dynamics · Surface Processes and Interior–Surface Coupling · Machine Learning in Earth Science</div>
+
+<div class="badge-list">
+  <a class="icon-badge" href="mailto:xiyuanbao@fas.harvard.edu">
+    <i class="fa-solid fa-envelope"></i><span>Email</span>
+  </a>
+  <a class="icon-badge" href="https://scholar.google.com/citations?user=g5YRtVAAAAAJ&hl=en" target="_blank">
+    <i class="fa-solid fa-graduation-cap"></i><span>Google Scholar</span>
+  </a>
+  <a class="icon-badge" href="https://orcid.org/0000-0002-1363-3793" target="_blank">
+    <i class="fa-brands fa-orcid"></i><span>ORCID</span>
+  </a>
+  <a class="icon-badge" href="https://github.com/xiyuanbao" target="_blank">
+    <i class="fa-brands fa-github"></i><span>GitHub</span>
+  </a>
+  <a class="icon-badge" href="https://www.linkedin.com/in/xiyuan-bao/" target="_blank">
+    <i class="fa-brands fa-linkedin"></i><span>LinkedIn</span>
+  </a>
+
+</div>
+:::
+
+::: {.right-col}
+I received my PhD in geophysics from UCLA and currently I am a Reginald A. Daly Postdoctoral Fellow at Harvard University.
+I explore how Earth’s deep interior flows, deforms, and drives surface change—from mantle plumes to sea-level rise, with simulations, experiments and machine learning. Learn more on the [Research](research.qmd) page.
+
+
+::: {.section-card}
+### Experience
+
+- Reginald A. Daly Postdoctoral Fellow, Harvard University  
+  <span style="float:right">Oct 2024–</span>  
+
+- Postdoctoral Scholar, University of California, Los Angeles  
+  <span style="float:right">Mar–Sep 2024</span>  
+
+- Ph.D. in Geophysics, University of California, Los Angeles  
+  <span style="float:right">2018–2024</span>  
+
+- B.S. of Geophysics with Honors, University of Science and Technology of China  
+  <span style="float:right">2014–2018</span>  
+
+- Minor in Computer Science, University of Science and Technology of China
+  <span style="float:right">2014–2018</span>  
+
+- Visiting Scholar, University of Illinois, Urbana-Champaign  
+  <span style="float:right">Jun–Aug 2017</span>  
+:::
+
+
+
+::: {.section-card}
+### News
+
+::: {#latest-news}
+:::
+
+
+See more on the [News](news.qmd) page.
+:::
+:::
+:::

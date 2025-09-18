@@ -1,0 +1,7 @@
+---
+title: "CV"
+---
+
+<object class="embed-pdf" data="assets/cv.pdf" type="application/pdf">
+  <p>Your browser can't display PDFs. <a href="assets/cv.pdf">Download CV</a>.</p>
+</object>

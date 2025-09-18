@@ -1,0 +1,51 @@
+---
+title: "Experimental, Computational and Machine Learning Methods in Geophysics"
+bibliography: bib/geodynamical-methods.bib
+csl: csl/no-author-substitute.csl
+nocite: |
+  @*
+---
+
+![A thermal plume in syrup imaged by thermochromic liquid crystal. Credit: Carolina Lithgow-bertelloni](assets/TLC.png)
+
+I am also very interested in developing and applying novel methodologies, including both end-to-end and generalizable approaches to address various challenging problems in geophysics.
+
+Specificlly, I focus on:
+
+
+- State-of-the-art laboratory fluid dynamic experiments
+ and analysis workflow tailored for viscous convection
+  applicable to planetary interiors [@Bao2024a;@b7Bao2023c;@b3Bao2025g].
+  They are based on real-world physics and especially suitable 
+  to investigate multi-scale flow.
+
+![Cartoon of the 3D-scanning Stereoscopic Particle Image Velocimetry (SSPIV) system I built at UCLA](gallery/lab_video_trimmed3x.mp4)
+
+
+- Digital twins of lab experiments based on a hybrid-adjoint method [@Bao2024PhD].
+These fully quantified numerical models are tightly constrained
+ by 4D lab measurements, but they further extend
+ the results in space and time and even to unmeasured quantities. 
+
+![SSPIV measurement that covers 68% volume (left), 
+full velocity reconstructed with hybrid-adjoint (middle), 
+and reconstruction of unmeasured temperature field (right) Ra=1e6~1e8](gallery/PIV_31.mp4)
+
+
+- Machine learning and AI methods to analyze, simulate
+ and invert complex geophysical systems. 
+ These include data mining from 
+ geophysical and geochemical data [@c1Bao2022;@aBao2024a;@a7Bao2025a], 
+ as well as forward and inverse modeling 
+ with physics-infomred neural networks (PINNs) [@Bao2024PhD] 
+ and neural operators [@a7Bao2025b]. 
+
+![3D view of a numerical simulation of Rayleigh Benard convection 
+at Ra=1e5, viscosity contrast up to 10 (hotter less viscous)](assets/PINN1.png)
+
+![2D central-plane view of the simulation above. Left panel is prediction from PINNs, right is the misfit from the reference simulation.](assets/PINN2.png)
+
+## Related Work
+
+::: {#refs}
+:::

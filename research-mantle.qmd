@@ -1,0 +1,44 @@
+---
+title: "Solid Earth Dynamics"
+bibliography: bib/mantle-dynamics.bib
+csl: csl/no-author-substitute.csl
+nocite: |
+  @*
+---
+
+![The Large Low Shear Velocity Provinces](assets/pacific-llsvp.jpg){fig-cap-location="bottom"}
+
+**What is the present-day physical and chemical state of the solid Earth?
+How did it dynamically evolve over geological time,
+leaving behind the geological, geophysical and geochemical signatures across the globe?**
+
+
+My research on solid Earth dynamics focuses on the following aspects:
+
+
+
+- Data-based interpretation of global volcanism, 
+at hotspots [@c1Bao2022;@b6Cai2025a],
+mid-ocean ridges [@aBao2024a; @a2Zhang2023a;@a1Zhang2023b] 
+and subduction zones [@a0Li2023].
+
+![An estimate of the global hotspot potential temperature, from @c1Bao2022](assets/hotspot_Tp.jpg){fig-cap-location="bottom"}
+
+
+- Dynamicial modeling of mantle plume evolution pathways, 
+source entrainment and surface expressions [@Bao2024a;@b7Bao2023c;@b3Bao2025g].  
+
+![Rising lab plumes imaged by bubbles from a rigid half sphere, 
+representing an end-member scenario of the Large Low Shear Velocity Province.](gallery/plume_side_llsvp.jpg){fig-cap-location="bottom"}
+
+
+- Constrianing the distribution of deep mantle heterogeneities and rheological properties [@a7Bao2025a;@bao2024giant]
+
+![Mantle rocks deform like viscous fluid over geological time-scales.](assets/rheology.jpeg){fig-cap-location="bottom"}
+
+
+
+## Related Work
+
+::: {#refs}
+:::

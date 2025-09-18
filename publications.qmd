@@ -1,0 +1,6 @@
+---
+title: "Publications"
+page-layout: article
+---
+
+{{< include _generated/publications_body.qmd >}}

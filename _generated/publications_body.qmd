@@ -1,0 +1,44 @@
+<!-- Auto-generated. Do not edit directly. -->
+
+## Peer-reviewed
+
+- **Bao, Xiyuan**, Lithgow-Bertelloni, Carolina R., Jackson, Matthew G and Romanowicz, Barbara (2022). *On the relative temperatures of Earth's volcanic hotspots and mid-ocean ridges*. **Science**. [link](https://doi.org/10.1126/science.abj8944)
+
+- Li, Shaohua, Li, Jiaqi, Ferrand, Thomas P, Zhou, Tong, Lv, Mingda, Xi, Ziyi, Maguire, Ross, Han, Guangjie, Li, Juan, **Bao, Xiyuan** and others (2023). *Deep geophysical anomalies beneath the Changbaishan Volcano*. **Journal of Geophysical Research: Solid Earth**. [link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JB025671)
+
+- Xubo Zhang, Eric L. Brown, Jinchang Zhang, Jian Lin, **Xiyuan Bao** and William W. Sager (2023). *Magmatism of Shatsky Rise controlled by plume-ridge interactions*. **Nature Geoscience**. [link](https://doi.org/10.1038/s41561-023-01286-0)
+
+- **Bao, Xiyuan**, Mittal, Tushar and Lithgow-Bertelloni, Carolina R. (2024). *Determining Mid-Ocean Ridge Geography from Upper Mantle Temperature*. **Earth and Planetary Science Letters**. [link](https://doi.org/10.1016/j.epsl.2024.118823)
+
+- **Bao, Xiyuan** (2024). *Giant impact and Earth's mysterious blobs: An interdisciplinary revelation*. **Science Bulletin**. [link](https://doi.org/10.1016/j.scib.2023.12.028)
+
+- **Bao, Xiyuan** and Lithgow-Bertelloni, Carolina R. (2024). *Self-correction of the optical distortion effect of thermal plumes in particle image velocimetry*. **Physics of Fluids**. [link](https://doi.org/10.1063/5.0233759)
+
+
+
+## Manuscripts submitted
+
+- **Bao, Xiyuan**, Wamba, Mathurin D. and Stracke, Andreas. *A deep-mantle geochemical zoning map beneath East Africa and Indian Ocean*. Under review in **Science**
+
+- Lucas, Erica, Richards, Fred, Cederberg, Gabriel, **Bao, Xiyuan**, Hoggard, Mark J., Tsuji, Stephen R. J., Latychev, Konstantin, Tsuji, Leonard J. S. and Mitrovica, Jerry. *Emergence of Antarctic mineral resources in a warming world*. Revision Under review in **Nature Climate Change**
+
+- **Bao, Xiyuan** and Lithgow-Bertelloni, Carolina R.. *End-to-End workflow for 4-dimensional flow measurements and analysis in viscous Rayleigh-Benard Convection*. Submitted
+
+- Cai, Ronghua, **Bao, Xiyuan**, Foley, Stephen F., Giuliani, Andrea, Jiang, Shihao, Pearson, D. Graham and Liu, Jingao. *Evidence for a highly fusible fundamental constituent in the convective mantle*. Submitted
+
+
+
+## Manuscripts in preparation
+
+- **Bao, Xiyuan**, Cao, Zebin, Gourley, Kenneth Christopher, Gutierrez, Sara, Liang, Yuanyuan, Zhou, Dongyuan, Buffett, Bruce A, Mittal, Tushar, Li, Jie, Pierrehumbert, Raymond, Schaefer, Laura, Orman, James Van and Foley, Bradford J. *Coupled Evolution of Earth’s Hydrogen Distribution and Thermal History. *.
+
+- **Bao, Xiyuan** and Lithgow-Bertelloni, Carolina R.. *Interaction and evolutionary pathways of laminar thermal plumes revealed by 4-dimensional velocity measurements and analysis: Application to mantle plumes*.
+
+- **Bao, Xiyuan**, Coulson, Sophie, Valencic, Natasha, Mitrovica, Jerry, Dangendorf, Sönke, Mousavi, Mostafa and Lloyd, Andrew. *Inverting Sea Level Fingerprints for Ice Mass Changes Using Neural Operators: How Much Can We Recover and How Unique Is It?*.
+
+- Coulson, Sophie, Lloyd, Andrew, **Bao, Xiyuan**, Mitrovica, Jerry X., Dangendorf, Sönke, Pan, Linda, Valencic, Natasha, Tamisea, Mark E., Al-Attar, David and Heathcotte, Daniel. *Inverting Sea Surface Height Data for Greenland Ice Mass Changes (1993-2019):
+A Proof of Concept*.
+
+- Wei Wang, Xubo Zhang, Jian Lin, Zihua Cheng, **Xiyuan Bao**, Fan Zhang, Katherine A. Kelley, Ling Chen and Fengyou Chu. *Ultra-depleted mantle supporting the Marion Rise: implications for ocean rise dynamics*.
+
+
