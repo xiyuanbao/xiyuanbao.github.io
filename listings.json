@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/news.html",
+    "items": [
+      "/posts/Brown-visit/index.html",
+      "/posts/move-harvard/index.html",
+      "/posts/AGU-section-award/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/Brown-visit/index.html",
+      "/posts/move-harvard/index.html",
+      "/posts/AGU-section-award/index.html"
+    ]
+  }
+]
