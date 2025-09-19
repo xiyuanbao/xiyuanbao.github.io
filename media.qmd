@@ -3,9 +3,13 @@ title: "Media & Outreach"
 ---
 - **Media Interview of our 2022 Science paper**
 
-  [Science News](https://www.thesciencebreaker.org/breaks/earth-space/rocks-beneath-volcanic-hotspots-can-be-surprisingly-cool)
+  [Science News](https://www.sciencenews.org/article/volcano-hot-spots-shallow-heat-source-tectonic-plates-mantle)
 
-  [New Scientist](https://www.newscientist.com/article/2303622-plumes-of-rock-that-feed-volcanic-hotspots-are-surprisingly-cold/), [New Scientist, Netherland](https://www.newscientist.nl/nieuws/vulkanische-hotspots-blijken-verrassend-koud/)
+  [New Scientist](https://www.newsci
+  entist.com/article/2303622-plumes-of-rock-that-feed-volcanic-hotspots-are-surprisin
+  gly-cold/)
+  
+  [New Scientist, Netherland](https://www.newscientist.nl/nieuws/vulkanische-hotspots-blijken-verrassend-koud/)
 
 
   [Popular Science](https://www.popsci.com/science/cool-volcanic-hotspots/)
@@ -17,7 +21,7 @@ title: "Media & Outreach"
 
 - **Invited Outreach Article on cold hotspots**.
 
-  Link: <https://www.thesciencebreaker.org/breaks/earth-space/rocks-beneath-volcanic-hotspots-can-be-surprisingly-cool>
+  Link: [The Science Breaker](https://www.thesciencebreaker.org/breaks/earth-space/rocks-beneath-volcanic-hotspots-can-be-surprisingly-cool)
 
 - **Explore Your Universe (EYU)**
 
@@ -32,7 +36,8 @@ title: "Media & Outreach"
   [EYU2022](https://kgblab.epss.ucla.edu/post/eyu2022/)
 
   Below is a Youtube channel for our virtual EYU booth:
-  link: <https://www.youtube.com/channel/UCQo6tBGHTTPciBkJc2slDXw>
+  
+  [EYU Youtube](https://www.youtube.com/channel/UCQo6tBGHTTPciBkJc2slDXw)
 
 - **Lab tour for vistors abroad**
 

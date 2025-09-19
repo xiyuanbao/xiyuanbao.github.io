@@ -10,7 +10,10 @@ title: "Research Areas"
   <p class="title">Solid Earth Dynamics</p>
   <p>Understanding mantle plumes, mid-ocean ridges, deep mantle heterogeneities, and rheology through geodynamical modeling, informed by geophysical and geochemical observations.</p>
   <p><a href="research-mantle.qmd">Read more →</a></p>
+  <p><u>Read more →</u></p>
+
 </div>
+
 :::
 
 ::: {.area-card}
@@ -19,6 +22,7 @@ title: "Research Areas"
   <p class="title">Surface Processes and Interior-surface Coupling</p>
   <p>Investigating how Earth’s deep interior interacts with surface processes—including sea-level change, cryosphere-solid earth interactions and volatile cycling—with implications for planetary evolution and habitability.</p>
   <p><a href="research-couple.qmd">Read more →</a></p>
+  <p><u>Read more →</u></p>
 </div>
 :::
 
@@ -29,6 +33,7 @@ title: "Research Areas"
   <p>Advancing and applying novel approaches—including laboratory experiments, hybrid adjoint methods, and machine learning—to analyze, simulate and invert complex geodynamic systems.
 </p>
   <p><a href="research-methods.qmd">Read more →</a></p>
+  <p><u>Read more →</u></p>
 </div>
 :::
 

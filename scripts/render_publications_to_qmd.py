@@ -94,7 +94,7 @@ def fmt_entry(e, category: str) -> str:
     elif url:
         link_target = url
     if link_target:
-        pieces.append(f"[link]({link_target})")
+        pieces.append(f"[Link]({link_target})")
 
     if category.lower().startswith("manuscripts submitted"):
         extra = howpub or note

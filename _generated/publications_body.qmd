@@ -2,17 +2,17 @@
 
 ## Peer-reviewed
 
-- **Bao, Xiyuan**, Lithgow-Bertelloni, Carolina R., Jackson, Matthew G and Romanowicz, Barbara (2022). *On the relative temperatures of Earth's volcanic hotspots and mid-ocean ridges*. **Science**. [link](https://doi.org/10.1126/science.abj8944)
+- **Bao, Xiyuan**, Lithgow-Bertelloni, Carolina R., Jackson, Matthew G and Romanowicz, Barbara (2022). *On the relative temperatures of Earth's volcanic hotspots and mid-ocean ridges*. **Science**. [Link](https://doi.org/10.1126/science.abj8944)
 
-- Li, Shaohua, Li, Jiaqi, Ferrand, Thomas P, Zhou, Tong, Lv, Mingda, Xi, Ziyi, Maguire, Ross, Han, Guangjie, Li, Juan, **Bao, Xiyuan** and others (2023). *Deep geophysical anomalies beneath the Changbaishan Volcano*. **Journal of Geophysical Research: Solid Earth**. [link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JB025671)
+- Li, Shaohua, Li, Jiaqi, Ferrand, Thomas P, Zhou, Tong, Lv, Mingda, Xi, Ziyi, Maguire, Ross, Han, Guangjie, Li, Juan, **Bao, Xiyuan** and others (2023). *Deep geophysical anomalies beneath the Changbaishan Volcano*. **Journal of Geophysical Research: Solid Earth**. [Link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JB025671)
 
-- Xubo Zhang, Eric L. Brown, Jinchang Zhang, Jian Lin, **Xiyuan Bao** and William W. Sager (2023). *Magmatism of Shatsky Rise controlled by plume-ridge interactions*. **Nature Geoscience**. [link](https://doi.org/10.1038/s41561-023-01286-0)
+- Xubo Zhang, Eric L. Brown, Jinchang Zhang, Jian Lin, **Xiyuan Bao** and William W. Sager (2023). *Magmatism of Shatsky Rise controlled by plume-ridge interactions*. **Nature Geoscience**. [Link](https://doi.org/10.1038/s41561-023-01286-0)
 
-- **Bao, Xiyuan**, Mittal, Tushar and Lithgow-Bertelloni, Carolina R. (2024). *Determining Mid-Ocean Ridge Geography from Upper Mantle Temperature*. **Earth and Planetary Science Letters**. [link](https://doi.org/10.1016/j.epsl.2024.118823)
+- **Bao, Xiyuan**, Mittal, Tushar and Lithgow-Bertelloni, Carolina R. (2024). *Determining Mid-Ocean Ridge Geography from Upper Mantle Temperature*. **Earth and Planetary Science Letters**. [Link](https://doi.org/10.1016/j.epsl.2024.118823)
 
-- **Bao, Xiyuan** (2024). *Giant impact and Earth's mysterious blobs: An interdisciplinary revelation*. **Science Bulletin**. [link](https://doi.org/10.1016/j.scib.2023.12.028)
+- **Bao, Xiyuan** (2024). *Giant impact and Earth's mysterious blobs: An interdisciplinary revelation*. **Science Bulletin**. [Link](https://doi.org/10.1016/j.scib.2023.12.028)
 
-- **Bao, Xiyuan** and Lithgow-Bertelloni, Carolina R. (2024). *Self-correction of the optical distortion effect of thermal plumes in particle image velocimetry*. **Physics of Fluids**. [link](https://doi.org/10.1063/5.0233759)
+- **Bao, Xiyuan** and Lithgow-Bertelloni, Carolina R. (2024). *Self-correction of the optical distortion effect of thermal plumes in particle image velocimetry*. **Physics of Fluids**. [Link](https://doi.org/10.1063/5.0233759)
 
 
 

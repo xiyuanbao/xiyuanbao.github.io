@@ -11,6 +11,8 @@ website:
     background: light
     #logo: assets/logo.jpeg
     left:
+    - href: index.qmd
+      text: Home
     - href: news.qmd
       text: News
     - href: research.qmd
