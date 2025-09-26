@@ -29,6 +29,9 @@ website:
       text: CV
   page-navigation: true
   search: true
+  google-analytics: 
+    tracking-id: "G-HLNN6RB67D"
+    storage: none
 format:
   html:
     theme: cosmo
