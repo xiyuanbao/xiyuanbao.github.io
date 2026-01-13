@@ -2,6 +2,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/posts/Paper-call/index.html",
       "/posts/Graph-theory-plume/index.html",
       "/posts/Brown-visit/index.html",
       "/posts/move-harvard/index.html",
@@ -11,6 +12,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/Paper-call/index.html",
       "/posts/Graph-theory-plume/index.html",
       "/posts/Brown-visit/index.html",
       "/posts/move-harvard/index.html",
