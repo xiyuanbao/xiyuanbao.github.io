@@ -31,7 +31,7 @@ website:
   search: true
   google-analytics: 
     tracking-id: "G-HLNN6RB67D"
-    storage: none
+    # storage: none
 format:
   html:
     theme: cosmo

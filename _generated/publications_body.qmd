@@ -1,44 +1,49 @@
 <!-- Auto-generated. Do not edit directly. -->
 
-## Peer-reviewed
+## Published
 
-- **Bao, Xiyuan**, Lithgow-Bertelloni, Carolina R., Jackson, Matthew G and Romanowicz, Barbara (2022). *On the relative temperatures of Earth's volcanic hotspots and mid-ocean ridges*. **Science**. [Link](https://doi.org/10.1126/science.abj8944)
+- **Bao, Xiyuan**, Wamba, Mathurin D. and Stracke, Andreas (2026). *A joint geophysical-geochemical deep-mantle zoning map beneath East Africa and the Indian Ocean.* **Science**.
 
-- Li, Shaohua, Li, Jiaqi, Ferrand, Thomas P, Zhou, Tong, Lv, Mingda, Xi, Ziyi, Maguire, Ross, Han, Guangjie, Li, Juan, **Bao, Xiyuan** and others (2023). *Deep geophysical anomalies beneath the Changbaishan Volcano*. **Journal of Geophysical Research: Solid Earth**. [Link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JB025671)
+- Coulson, Sophie, Lloyd, Andrew, **Bao, Xiyuan**, Mitrovica, Jerry X., Dangendorf, Sönke, Pan, Linda, Valencic, Natasha, Tamisiea, Mark E., Al-Attar, David and Heathcotte, Daniel (2026). *Inverting Sea Surface Height Data Yields Greenland Ice Mass Changes (1993-2019): A Proof of Concept.* **Geophysical Journal International**. [Link](https://doi.org/10.1093/gji/ggag187)
 
-- Xubo Zhang, Eric L. Brown, Jinchang Zhang, Jian Lin, **Xiyuan Bao** and William W. Sager (2023). *Magmatism of Shatsky Rise controlled by plume-ridge interactions*. **Nature Geoscience**. [Link](https://doi.org/10.1038/s41561-023-01286-0)
+- Lucas, Erica, Richards, Fred, Cederberg, Gabriel, **Bao, Xiyuan**, Hoggard, Mark J., Tsuji, Stephen R. J., Latychev, Konstantin, Tsuji, Leonard J. S. and Mitrovica, Jerry (2026). *Emergence of Antarctic mineral resources in a warming world.* **Nature Climate Change**.
 
-- **Bao, Xiyuan**, Mittal, Tushar and Lithgow-Bertelloni, Carolina R. (2024). *Determining Mid-Ocean Ridge Geography from Upper Mantle Temperature*. **Earth and Planetary Science Letters**. [Link](https://doi.org/10.1016/j.epsl.2024.118823)
+- **Bao, Xiyuan** and Lithgow-Bertelloni, Carolina R. (2024). *Self-correction of the optical distortion effect of thermal plumes in particle image velocimetry.* **Physics of Fluids**. [Link](https://doi.org/10.1063/5.0233759)
 
-- **Bao, Xiyuan** (2024). *Giant impact and Earth's mysterious blobs: An interdisciplinary revelation*. **Science Bulletin**. [Link](https://doi.org/10.1016/j.scib.2023.12.028)
+- **Bao, Xiyuan** (2024). *PhD Thesis: Hotspots from Top to Bottom.* [Link](https://escholarship.org/uc/item/4dx424br)
 
-- **Bao, Xiyuan** and Lithgow-Bertelloni, Carolina R. (2024). *Self-correction of the optical distortion effect of thermal plumes in particle image velocimetry*. **Physics of Fluids**. [Link](https://doi.org/10.1063/5.0233759)
+- **Bao, Xiyuan** (2024). *Giant impact and Earth's mysterious blobs: An interdisciplinary revelation.* **Science Bulletin**. [Link](https://doi.org/10.1016/j.scib.2023.12.028)
+
+- **Bao, Xiyuan**, Mittal, Tushar and Lithgow-Bertelloni, Carolina R. (2024). *Determining Mid-Ocean Ridge Geography from Upper Mantle Temperature.* **Earth and Planetary Science Letters**. [Link](https://doi.org/10.1016/j.epsl.2024.118823)
+
+- Xubo Zhang, Eric L. Brown, Jinchang Zhang, Jian Lin, **Xiyuan Bao** and William W. Sager (2023). *Magmatism of Shatsky Rise controlled by plume-ridge interactions.* **Nature Geoscience**. [Link](https://doi.org/10.1038/s41561-023-01286-0)
+
+- Li, Shaohua, Li, Jiaqi, Ferrand, Thomas P, Zhou, Tong, Lv, Mingda, Xi, Ziyi, Maguire, Ross, Han, Guangjie, Li, Juan, **Bao, Xiyuan** and others (2023). *Deep geophysical anomalies beneath the Changbaishan Volcano.* **Journal of Geophysical Research: Solid Earth**. [Link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JB025671)
+
+- **Bao, Xiyuan**, Lithgow-Bertelloni, Carolina R., Jackson, Matthew G and Romanowicz, Barbara (2022). *On the relative temperatures of Earth's volcanic hotspots and mid-ocean ridges.* **Science**. [Link](https://doi.org/10.1126/science.abj8944)
 
 
 
 ## Manuscripts submitted
 
-- **Bao, Xiyuan**, Wamba, Mathurin D. and Stracke, Andreas. *A deep-mantle geochemical zoning map beneath East Africa and Indian Ocean*. Under review in **Science**
+- **Bao, Xiyuan** and Lithgow-Bertelloni, Carolina R.. *A method for measuring and analyzing four-dimensional flow fields in viscous Rayleigh-Benard Convection.* Revision Under Review
 
-- Lucas, Erica, Richards, Fred, Cederberg, Gabriel, **Bao, Xiyuan**, Hoggard, Mark J., Tsuji, Stephen R. J., Latychev, Konstantin, Tsuji, Leonard J. S. and Mitrovica, Jerry. *Emergence of Antarctic mineral resources in a warming world*. Revision Under review in **Nature Climate Change**
+- **Bao, Xiyuan** and Lithgow-Bertelloni, Carolina R.. *Morphology, interactions, and evolution of laminar thermal plumes revealed by four-dimensional velocity measurements and analysis: Application to Earth's mantle.* Revision Under Review
 
-- **Bao, Xiyuan** and Lithgow-Bertelloni, Carolina R.. *End-to-End workflow for 4-dimensional flow measurements and analysis in viscous Rayleigh-Benard Convection*. Submitted
+- Cai, Ronghua, **Bao, Xiyuan**, Foley, Stephen F., Giuliani, Andrea, Jiang, Shihao, Pearson, D. Graham and Liu, Jingao. *Evidence for a highly fusible fundamental constituent in the convective mantle.* In Revision
 
-- Cai, Ronghua, **Bao, Xiyuan**, Foley, Stephen F., Giuliani, Andrea, Jiang, Shihao, Pearson, D. Graham and Liu, Jingao. *Evidence for a highly fusible fundamental constituent in the convective mantle*. Submitted
+- Powell, Robert, Cederberg, Gabriel, Dangendorf, Sönke, Lucas, Erica, **Bao, Xiyuan**, Creveling, Jessica, Tsuji, Steven, Tsuji, Leonard and Mitrovica, Jerry X.. *Disproportionate sea level rise in small island developing states of the Pacific and Indian Oceans driven by Greenland and Antarctic ice mass loss.* Under review at **Communications Earth \& Environment**
+
+- Acquadro, Jake, **Bao, Xiyuan** and Deng, Jie. *Machine-Learned Local Environments Reveal Framework Controls on MgSiO3 Liquid-Crystal Similarity.* Under review at **PNAS NEXUS**
 
 
 
 ## Manuscripts in preparation
 
-- **Bao, Xiyuan**, Cao, Zebin, Gourley, Kenneth Christopher, Gutierrez, Sara, Liang, Yuanyuan, Zhou, Dongyuan, Buffett, Bruce A, Mittal, Tushar, Li, Jie, Pierrehumbert, Raymond, Schaefer, Laura, Orman, James Van and Foley, Bradford J. *Coupled Evolution of Earth’s Hydrogen Distribution and Thermal History. *.
+- **Bao, Xiyuan**, Cao, Zebin, Gourley, Kenneth Christopher, Gutierrez, Sara, Liang, Yuanyuan, Zhou, Dongyuan, Buffett, Bruce A, Mittal, Tushar, Li, Jie, Pierrehumbert, Raymond, Schaefer, Laura, Orman, James Van and Foley, Bradford J. *Coupled Evolution of Earth’s Hydrogen Distribution and Thermal History.*
 
-- **Bao, Xiyuan** and Lithgow-Bertelloni, Carolina R.. *Interaction and evolutionary pathways of laminar thermal plumes revealed by 4-dimensional velocity measurements and analysis: Application to mantle plumes*.
+- **Bao, Xiyuan**, Coulson, Sophie, Valencic, Natasha, Mitrovica, Jerry, Dangendorf, Sönke, Mousavi, Mostafa and Lloyd, Andrew. *Inverting Sea Level Fingerprints for Ice Mass Changes Using Neural Operators: How Much Can We Recover and How Unique Is It?*
 
-- **Bao, Xiyuan**, Coulson, Sophie, Valencic, Natasha, Mitrovica, Jerry, Dangendorf, Sönke, Mousavi, Mostafa and Lloyd, Andrew. *Inverting Sea Level Fingerprints for Ice Mass Changes Using Neural Operators: How Much Can We Recover and How Unique Is It?*.
-
-- Coulson, Sophie, Lloyd, Andrew, **Bao, Xiyuan**, Mitrovica, Jerry X., Dangendorf, Sönke, Pan, Linda, Valencic, Natasha, Tamisea, Mark E., Al-Attar, David and Heathcotte, Daniel. *Inverting Sea Surface Height Data for Greenland Ice Mass Changes (1993-2019):
-A Proof of Concept*.
-
-- Wei Wang, Xubo Zhang, Jian Lin, Zihua Cheng, **Xiyuan Bao**, Fan Zhang, Katherine A. Kelley, Ling Chen and Fengyou Chu. *Ultra-depleted mantle supporting the Marion Rise: implications for ocean rise dynamics*.
+- Wei Wang, Xubo Zhang, Feng Xu, Zihua Cheng, **Xiyuan Bao**, Andreas Stracke, Caicai Zha, Fan Zhan and Jian Lin. *Ultra-depleted mantle beneath the Marion Rise and its implications for ocean rise uplift.*
 
 

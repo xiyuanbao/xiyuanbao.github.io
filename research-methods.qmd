@@ -35,7 +35,7 @@ and reconstruction of unmeasured temperature field (right) Ra=1e6~1e8](gallery/P
 - Machine learning and AI methods to analyze, simulate
  and invert complex geophysical systems. 
  These include data mining from 
- geophysical and geochemical data [@c1Bao2022;@aBao2024a;@a7Bao2025a], 
+ geophysical and geochemical data [@c1Bao2022;@aBao2024a;@a7Bao2025a;@Acquadro2026], 
  as well as forward and inverse modeling 
  with physics-infomred neural networks (PINNs) [@Bao2024PhD] 
  and neural operators [@a7Bao2025b]. 

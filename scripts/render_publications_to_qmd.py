@@ -31,7 +31,7 @@ OUT = ROOT / "_generated" / "publications_body.qmd"
 OUT.parent.mkdir(parents=True, exist_ok=True)
 
 CATEGORIES = [
-    ("Peer-reviewed", BIBDIR / "published.bib"),
+    ("Published", BIBDIR / "published.bib"),
     ("Manuscripts submitted", BIBDIR / "submitted.bib"),
     ("Manuscripts in preparation", BIBDIR / "inprep.bib"),
 ]
@@ -59,13 +59,61 @@ def load_bib(path: Path):
     return db.entries
 
 def sort_entries(entries):
-    def y(e):
-        try:
-            return int(re.findall(r"\d{4}", e.get("year","0000"))[0])
-        except Exception:
-            return 0
-    return sorted(entries, key=lambda e: (y(e), e.get("title","")), reverse=False)
+    # Sort by year descending.
+    # Within the same year, entries where Bao, Xiyuan appears earlier in the author list come first.
+    # Finally, sort by title descending.
+    has_years = any("year" in e and e["year"].strip() for e in entries)
+    if has_years:
+        def y(e):
+            try:
+                return int(re.findall(r"\d{4}", e.get("year", "0000"))[0])
+            except Exception:
+                return 0
 
+        def bao_author_pos(e):
+            authors = e.get("author", "")
+            parts = [
+                p.strip()
+                for p in re.split(r"\band\b", authors, flags=re.IGNORECASE)
+                if p.strip()
+            ]
+
+            for i, author in enumerate(parts):
+                if re.search(r"Bao,\s*Xiyuan|Xiyuan\s*Bao", author, flags=re.IGNORECASE):
+                    return i
+
+            return 9999
+
+        sorted_entries = list(entries)
+
+        # Tertiary key: title descending, Z -> A
+        sorted_entries.sort(
+            key=lambda e: e.get("title", "").casefold(),
+            reverse=True
+        )
+
+        # Secondary key: Bao author position ascending
+        sorted_entries.sort(key=bao_author_pos)
+
+        # Primary key: year descending
+        sorted_entries.sort(key=y, reverse=True)
+
+        return sorted_entries
+    else:
+        return entries
+
+def ensure_terminal_punctuation(s: str) -> str:
+    s = s.strip()
+    if not s:
+        return s
+
+    terminal_punct = ".。?？!！"
+
+    if s[-1] in terminal_punct:
+        return s
+    else:
+        return s + "."
+    
 def fmt_entry(e, category: str) -> str:
     authors = format_authors(e.get("author",""))
     title = e.get("title","").rstrip(".")
@@ -83,7 +131,7 @@ def fmt_entry(e, category: str) -> str:
         else:
             pieces.append(f"{authors}.")
     if title:
-        pieces.append(f"*{title}*.")
+        pieces.append(f"*{ensure_terminal_punctuation(title)}*")
     if journal:
         pieces.append(f"**{journal}**.")
 
@@ -100,7 +148,7 @@ def fmt_entry(e, category: str) -> str:
         extra = howpub or note
         if extra:
             extra_clean = extra.strip()
-            m = re.match(r'(?i)\s*(under review in|submitted to|in revision|revision under review in)\s+(.+)', extra_clean)
+            m = re.match(r'(?i)\s*(under review at|submitted to|in revision for|revision under review at)\s+(.+)', extra_clean)
             if m:
                 prefix, journal_extra = m.group(1), m.group(2)
                 pieces.append(f"{prefix} **{journal_extra.strip()}**")

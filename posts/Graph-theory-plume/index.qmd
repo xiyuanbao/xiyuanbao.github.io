@@ -1,0 +1,9 @@
+---
+title: "Talk about graph theory and plumes!"
+image: princeton-graph.jpg
+date: 2025-11-10
+---
+
+![](asu-graph.jpg)
+![](princeton-graph.jpg)
+I was invited to give two talks in the same week, at ASU and Princeton. It was exciting and inspiring to discuss our recent work on graph theory and plume tracking with colleagues!
