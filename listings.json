@@ -2,6 +2,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/posts/Graph-theory-plume-paper/index.html",
       "/posts/Paper-call/index.html",
       "/posts/Graph-theory-plume/index.html",
       "/posts/Brown-visit/index.html",
@@ -12,6 +13,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/Graph-theory-plume-paper/index.html",
       "/posts/Paper-call/index.html",
       "/posts/Graph-theory-plume/index.html",
       "/posts/Brown-visit/index.html",
