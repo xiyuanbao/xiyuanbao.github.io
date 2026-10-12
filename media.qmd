@@ -1,13 +1,65 @@
 ---
 title: "Media & Outreach"
 ---
-- **Media Interview of our 2022 Science paper**
+- **Media Interview of our 2026 Science paper on deep geophysical and geochemical map**
+
+  [Harvard FAS](https://current.fas.harvard.edu/stories/mapping-source-volcanic-activity-deep-within-earth)
+  ![](assets/fas_cover.png)
+
+- **Harvard Data Science Initiative interview of our Greenland sea level fingerprint project**
+<div class="youtube-cover"
+     onclick="this.innerHTML='<iframe src=&quot;https://www.youtube.com/embed/TtYIRvuanL0?autoplay=1&quot; title=&quot;YouTube video player&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen></iframe>'">
+
+  <img src="assets/hdsi_cover_xiyuan.png" alt="Watch video">
+
+  <div class="youtube-play-button">▶</div>
+</div>
+
+<style>
+.youtube-cover {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.youtube-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.youtube-cover iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.youtube-play-button {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 72px;
+  height: 50px;
+  border-radius: 12px;
+  background: rgba(0, 0, 0, 0.75);
+  color: white;
+  font-size: 28px;
+  line-height: 50px;
+  text-align: center;
+}
+</style>
+
+
+
+- **Media Interview of our 2022 Science paper on hotspot temperature**
 
   [Science News](https://www.sciencenews.org/article/volcano-hot-spots-shallow-heat-source-tectonic-plates-mantle)
 
-  [New Scientist](https://www.newsci
-  entist.com/article/2303622-plumes-of-rock-that-feed-volcanic-hotspots-are-surprisin
-  gly-cold/)
+  [New Scientist](https://www.newscientist.com/article/2303622-plumes-of-rock-that-feed-volcanic-hotspots-are-surprisingly-cold/)
   
   [New Scientist, Netherland](https://www.newscientist.nl/nieuws/vulkanische-hotspots-blijken-verrassend-koud/)
 

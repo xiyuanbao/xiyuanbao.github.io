@@ -2,7 +2,7 @@
 
 ## Published
 
-- **Bao, Xiyuan**, Wamba, Mathurin D. and Stracke, Andreas (2026). *A joint geophysical-geochemical deep-mantle zoning map beneath East Africa and the Indian Ocean.* **Science**.
+- **Bao, Xiyuan**, Wamba, Mathurin D. and Stracke, Andreas (2026). *A joint geophysical-geochemical deep-mantle zoning map beneath East Africa and the Indian Ocean.* **Science**. [Link](https://www.science.org/doi/full/10.1126/science.aea5466)
 
 - Coulson, Sophie, Lloyd, Andrew, **Bao, Xiyuan**, Mitrovica, Jerry X., Dangendorf, Sönke, Pan, Linda, Valencic, Natasha, Tamisiea, Mark E., Al-Attar, David and Heathcotte, Daniel (2026). *Inverting Sea Surface Height Data Yields Greenland Ice Mass Changes (1993-2019): A Proof of Concept.* **Geophysical Journal International**. [Link](https://doi.org/10.1093/gji/ggag187)
 
@@ -36,14 +36,17 @@
 
 - Acquadro, Jake, **Bao, Xiyuan** and Deng, Jie. *Machine-Learned Local Environments Reveal Framework Controls on MgSiO3 Liquid-Crystal Similarity.* Under review at **PNAS NEXUS**
 
+- Wurmser, Sylvie S., Al Asad, Manar, **Bao, Xiyuan**, Jessica Creveling, Mitrovica, Jerry X. and Tryon, Christian A.. *Reopening the Southern Gate: Early Pleistocene Sea Level
+and Hominin Dispersal Across the Red Sea.* submitted
+
+- Wei Wang, Xubo Zhang, Feng Xu, Zihua Cheng, **Xiyuan Bao**, Andreas Stracke, Caicai Zha, Fan Zhan and Jian Lin. *Ultra-depleted mantle beneath the Marion Rise and its implications for ocean rise uplift.* submitted
+
 
 
 ## Manuscripts in preparation
 
 - **Bao, Xiyuan**, Cao, Zebin, Gourley, Kenneth Christopher, Gutierrez, Sara, Liang, Yuanyuan, Zhou, Dongyuan, Buffett, Bruce A, Mittal, Tushar, Li, Jie, Pierrehumbert, Raymond, Schaefer, Laura, Orman, James Van and Foley, Bradford J. *Coupled Evolution of Earth’s Hydrogen Distribution and Thermal History.*
 
-- **Bao, Xiyuan**, Coulson, Sophie, Valencic, Natasha, Mitrovica, Jerry, Dangendorf, Sönke, Mousavi, Mostafa and Lloyd, Andrew. *Inverting Sea Level Fingerprints for Ice Mass Changes Using Neural Operators: How Much Can We Recover and How Unique Is It?*
-
-- Wei Wang, Xubo Zhang, Feng Xu, Zihua Cheng, **Xiyuan Bao**, Andreas Stracke, Caicai Zha, Fan Zhan and Jian Lin. *Ultra-depleted mantle beneath the Marion Rise and its implications for ocean rise uplift.*
+- **Bao, Xiyuan**, Coulson, Sophie, Valencic, Natasha, Mitrovica, Jerry, Dangendorf, Sönke, Mousavi, Mostafa and Lloyd, Andrew. *Neural Operators Reveal Scale-Dependent Limits on Recovering Greenland Ice Loss from Sea-Level Fingerprints.*
 
 

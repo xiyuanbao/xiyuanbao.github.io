@@ -19,7 +19,7 @@ and how do they interact with the solid Earth interior, with implications for pl
 
 My work on surface processes and interior-surface coupling focuses on:
 
-- The interplay among sea level change, cryosphere, and the solid Earth [@a7Bao2025b;@b7Lucas2025a;@b5Coulson2025a] 
+- The interplay among sea level change, cryosphere, and the solid Earth [@a7Bao2025b;@b7Lucas2025a;@b5Coulson2025a;@Sylvie2026] 
 
 ![Predicted (left) and observed (right) sea levels caused by melting of the Greenland Ice Sheet (GrIS). A statistically significant correlation between the two fields (P < 0.001) provides an unambiguous observational detection of the near-field sea level fingerprint of recent GrIS melting in our warming world. Graphic: Coulson, et al., 2022 / Science
 ](assets/fingerprint_coulson.png)

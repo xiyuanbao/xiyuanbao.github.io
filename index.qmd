@@ -48,6 +48,20 @@ I received my PhD in geophysics from UCLA and currently I am a Reginald A. Daly 
 I explore how Earth’s deep interior flows, deforms, and drives surface change—from mantle plumes to sea-level rise, with simulations, experiments and machine learning. Learn more on the [Research](research.qmd) page.
 
 
+
+
+
+
+::: {.section-card}
+### News
+
+::: {#latest-news}
+:::
+
+
+See more on the [News](news.qmd) page.
+:::
+
 ::: {.section-card}
 ### Experience
 
@@ -70,16 +84,5 @@ I explore how Earth’s deep interior flows, deforms, and drives surface change�
   <span style="float:right">Jun–Aug 2017</span>  
 :::
 
-
-
-::: {.section-card}
-### News
-
-::: {#latest-news}
-:::
-
-
-See more on the [News](news.qmd) page.
-:::
 :::
 :::
