@@ -11,7 +11,8 @@ Formatting rules:
 - Italicize title.
 - Bold journal.
 - Append year in parentheses after authors (omit if missing).
-- Always render DOI or URL as a markdown link labeled "link".
+- Published: render DOI or URL as a markdown link labeled "Link".
+- Submitted / in prep: render URL as a link labeled "arXiv".
 - For submitted entries, also append `howpublished` or `note` if provided.
 - Entries are sorted by year (descending) then title.
 """
@@ -59,16 +60,26 @@ def load_bib(path: Path):
     return db.entries
 
 def sort_entries(entries):
-    # Sort by year descending.
+    # Sort by year+month descending (month optional).
     # Within the same year, entries where Bao, Xiyuan appears earlier in the author list come first.
     # Finally, sort by title descending.
     has_years = any("year" in e and e["year"].strip() for e in entries)
     if has_years:
+        MONTHS = {m: i for i, m in enumerate(
+            ["jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"], 1)}
+
         def y(e):
+            # Primary key: (year, month). Missing month counts as the earliest in that year.
             try:
-                return int(re.findall(r"\d{4}", e.get("year", "0000"))[0])
+                year = int(re.findall(r"\d{4}", e.get("year", "0000"))[0])
             except Exception:
-                return 0
+                year = 0
+            raw = (e.get("month", "") or "").strip().lower()
+            if raw.isdigit():
+                month = int(raw)
+            else:
+                month = MONTHS.get(raw[:3], 0)
+            return (year, month)
 
         def bao_author_pos(e):
             authors = e.get("author", "")
@@ -95,7 +106,7 @@ def sort_entries(entries):
         # Secondary key: Bao author position ascending
         sorted_entries.sort(key=bao_author_pos)
 
-        # Primary key: year descending
+        # Primary key: (year, month) descending
         sorted_entries.sort(key=y, reverse=True)
 
         return sorted_entries
@@ -125,6 +136,21 @@ def fmt_entry(e, category: str) -> str:
     howpub = (e.get("howpublished","") or "").strip()
 
     pieces = []
+    # Always render as link.
+    # Published: DOI (preferred) or URL, labeled "Link".
+    # Submitted / in prep: URL only, always labeled "arXiv".
+    is_published = category.lower().startswith("published")
+    link_target = ""
+    label = "Link"
+    if is_published:
+        if doi:
+            link_target = f"https://doi.org/{doi}"
+        elif url:
+            link_target = url
+    elif url:
+        link_target = url
+        label = "arXiv"
+
     if authors:
         if year:
             pieces.append(f"{authors} ({year}).")
@@ -134,15 +160,6 @@ def fmt_entry(e, category: str) -> str:
         pieces.append(f"*{ensure_terminal_punctuation(title)}*")
     if journal:
         pieces.append(f"**{journal}**.")
-
-    # Always render as link
-    link_target = ""
-    if doi:
-        link_target = f"https://doi.org/{doi}"
-    elif url:
-        link_target = url
-    if link_target:
-        pieces.append(f"[Link]({link_target})")
 
     if category.lower().startswith("manuscripts submitted"):
         extra = howpub or note
@@ -154,6 +171,9 @@ def fmt_entry(e, category: str) -> str:
                 pieces.append(f"{prefix} **{journal_extra.strip()}**")
             else:
                 pieces.append(extra_clean)
+
+    if link_target:
+        pieces.append(f"[{label}]({link_target})")
 
     return " ".join(pieces).strip()
 

@@ -19,10 +19,23 @@ and how do they interact with the solid Earth interior, with implications for pl
 
 My work on surface processes and interior-surface coupling focuses on:
 
-- The interplay among sea level change, cryosphere, and the solid Earth [@a7Bao2025b;@b7Lucas2025a;@b5Coulson2025a;@Sylvie2026] 
+- The interplay among sea level change, cryosphere, and the solid Earth [@a7Bao2025b;@b7Lucas2025a;@b5Coulson2025a;@Powell2026;@Sylvie2026].
+Ice-mass redistribution perturbs Earth's gravity, rotation and solid surface and drives geographically variable sea-level change.
+Building on an inversion of sea-surface height for Greenland ice mass change [@b5Coulson2025a],
+I developed a physics-informed neural operator that estimates ice loss from sea-level fingerprints and revealed scale-dependent limits on what can be recovered [@a7Bao2025b].
+Related collaborations address Antarctic land and mineral-resource emergence [@b7Lucas2025a], amplified sea-level rise in small island developing states [@Powell2026], and early Pleistocene Red Sea shorelines linked to hominin dispersal [@Sylvie2026].
+
+<!-- TODO: rewrite and add figure -->
 
 ![Predicted (left) and observed (right) sea levels caused by melting of the Greenland Ice Sheet (GrIS). A statistically significant correlation between the two fields (P < 0.001) provides an unambiguous observational detection of the near-field sea level fingerprint of recent GrIS melting in our warming world. Graphic: Coulson, et al., 2022 / Science
 ](assets/fingerprint_coulson.png)
+
+- Accelerated glacial isostatic adjustment (GIA) modeling [@Bao2026c].
+An exact finite-state representation of viscoelastic memory replaces the full load-history convolution in 1-D GIA solvers with recursively updated relaxation states,
+reducing the history-dependent cost from O(N^2) to O(N). The resulting solver, SLEvolve, matches conventional solvers to machine precision with up to 4,000-fold acceleration,
+opening the door to systematic exploration of ice histories and mantle viscosity.
+
+<!-- TODO: rewrite and add figure -->
 
 - Volatile cycling among different spheres of the Earth system over billions of years [@b6Bao2023d]
 

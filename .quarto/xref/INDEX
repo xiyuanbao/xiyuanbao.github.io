@@ -70,5 +70,11 @@
   },
   "posts/Graph-theory-plume-paper/index.qmd": {
     "index.html": "14e578df"
+  },
+  "papers/slevolve/index.qmd": {
+    "index.html": "ef1e3af4"
+  },
+  "papers/greenland-fno/index.qmd": {
+    "index.html": "4c31124b"
   }
 }

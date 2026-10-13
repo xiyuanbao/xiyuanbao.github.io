@@ -1,0 +1,24 @@
+---
+title: "Greenland neural operators"
+search: false
+toc: false
+---
+
+<!--
+When the arXiv ID is available, replace XXXX.XXXXX below, then uncomment the
+include-in-header block in the YAML above:
+
+format:
+  html:
+    include-in-header:
+      text: |
+        <meta http-equiv="refresh" content="0;url=https://arxiv.org/abs/XXXX.XXXXX">
+-->
+
+**Neural Operators Reveal Scale-Dependent Limits on Recovering Greenland Ice Loss from Sea-Level Fingerprints**
+
+Xiyuan Bao, Sophie Coulson, Natasha Valencic, Mostafa Mousavi, Sönke Dangendorf, Andrew Lloyd and Jerry Mitrovica
+
+Preprint coming soon. This page will redirect to the arXiv listing once it is available.
+
+[Back to Publications](../../publications.qmd)

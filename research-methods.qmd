@@ -10,7 +10,7 @@ nocite: |
 
 I am also very interested in developing and applying novel methodologies, including both end-to-end and generalizable approaches to address various challenging problems in geophysics.
 
-Specificlly, I focus on:
+Specifically, I focus on:
 
 
 - State-of-the-art laboratory fluid dynamic experiments
@@ -35,10 +35,16 @@ and reconstruction of unmeasured temperature field (right) Ra=1e6~1e8](gallery/P
 - Machine learning and AI methods to analyze, simulate
  and invert complex geophysical systems. 
  These include data mining from 
- geophysical and geochemical data [@c1Bao2022;@aBao2024a;@a7Bao2025a;@Acquadro2026], 
+ geophysical and geochemical data [@c1Bao2022;@aBao2024a;@a7Bao2025a] and machine-learned local atomic environments of mantle minerals and melts [@Acquadro2026], 
  as well as forward and inverse modeling 
- with physics-infomred neural networks (PINNs) [@Bao2024PhD] 
+ with physics-informed neural networks (PINNs) [@Bao2024PhD] 
  and neural operators [@a7Bao2025b]. 
+
+- Fast physics-based solvers as the foundation for emulators [@Bao2026c].
+SLEvolve, a new sea-level solver built on an exact finite-state representation of viscoelastic memory, was implemented and optimized with AI coding agents under my direction
+and reaches up to 4,000-fold speed-up over conventional GIA solvers at machine precision.
+
+<!-- TODO: rewrite and add figure -->
 
 ![3D view of a numerical simulation of Rayleigh Benard convection 
 at Ra=1e5, viscosity contrast up to 10 (hotter less viscous)](assets/PINN1.png)

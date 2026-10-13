@@ -25,14 +25,21 @@ and subduction zones [@a0Li2023].
 ![An estimate of the global hotspot potential temperature, from @c1Bao2022](assets/hotspot_Tp.jpg){fig-cap-location="bottom"}
 
 
-- Dynamicial modeling of mantle plume evolution pathways, 
+- Dynamical modeling of mantle plume evolution pathways, 
 source entrainment and surface expressions [@Bao2024a;@b7Bao2023c;@b3Bao2025g].  
 
 ![Rising lab plumes imaged by bubbles from a rigid half sphere, 
 representing an end-member scenario of the Large Low Shear Velocity Province.](gallery/plume_side_llsvp.jpg){fig-cap-location="bottom"}
 
 
-- Constrianing the distribution of deep mantle heterogeneities and rheological properties [@a7Bao2025a;@bao2024giant]
+- Constraining the distribution of deep mantle heterogeneities and rheological properties [@a7Bao2025a;@bao2024giant].
+Using a graph-theory framework to trace plausible plume pathways through seismic tomography, and clustering them jointly with lava isotopes, we built the first joint geophysical-geochemical zoning map of the lowermost mantle beneath East Africa and the Indian Ocean, resolving at least three domains within the African LLSVP [@a7Bao2025a].
+
+<!-- TODO: rewrite and add figure (e.g. posts/Graph-theory-plume-paper/section3d_real.png) -->
+
+- Structural controls on the properties of mantle minerals and melts, e.g. what makes MgSiO3 liquid resemble its crystalline polymorphs at the atomic scale [@Acquadro2026].
+
+<!-- TODO: rewrite and add figure -->
 
 ![Mantle rocks deform like viscous fluid over geological time-scales.](assets/rheology.jpeg){fig-cap-location="bottom"}
 
