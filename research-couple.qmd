@@ -19,23 +19,28 @@ and how do they interact with the solid Earth interior, with implications for pl
 
 My work on surface processes and interior-surface coupling focuses on:
 
-- The interplay among sea level change, cryosphere, and the solid Earth [@a7Bao2025b;@b7Lucas2025a;@b5Coulson2025a;@Powell2026;@Sylvie2026].
-Ice-mass redistribution perturbs Earth's gravity, rotation and solid surface and drives geographically variable sea-level change.
+- The interplay among sea level change, cryosphere, and the solid Earth [@b5Coulson2025a;@a7Bao2025b].
+Ice-mass redistribution perturbs Earth's gravity, rotation and solid surface and drives geographically variable sea-level change, a pattern known as a sea-level fingerprint.
 Building on an inversion of sea-surface height for Greenland ice mass change [@b5Coulson2025a],
-I developed a physics-informed neural operator that estimates ice loss from sea-level fingerprints and revealed scale-dependent limits on what can be recovered [@a7Bao2025b].
-Related collaborations address Antarctic land and mineral-resource emergence [@b7Lucas2025a], amplified sea-level rise in small island developing states [@Powell2026], and early Pleistocene Red Sea shorelines linked to hominin dispersal [@Sylvie2026].
-
-<!-- TODO: rewrite and add figure -->
+I developed a physics-informed neural operator (PI-DIFNO) that estimates ice loss directly from sea-level fingerprints and revealed scale-dependent limits on what can be recovered [@a7Bao2025b].
 
 ![Predicted (left) and observed (right) sea levels caused by melting of the Greenland Ice Sheet (GrIS). A statistically significant correlation between the two fields (P < 0.001) provides an unambiguous observational detection of the near-field sea level fingerprint of recent GrIS melting in our warming world. Graphic: Coulson, et al., 2022 / Science
 ](assets/fingerprint_coulson.png)
 
-- Accelerated glacial isostatic adjustment (GIA) modeling [@Bao2026c].
+![Teaching a neural network to read ice loss from the ocean. Each row starts from a sea-level pattern (left), and the network recovers the Greenland ice-thickness change that produced it (middle), compared with the truth and the error (right). Smooth, large-scale ice loss is recovered almost perfectly, while fine coastal detail is harder to see from the ocean. From @a7Bao2025b](assets/greenland_fno_fig4_inverse.png){fig-cap-location="bottom"}
+
+- Accelerated glacial isostatic adjustment (GIA) modeling with [SLEvolve](https://github.com/xiyuanbao/slevolve) [@Bao2026c].
 An exact finite-state representation of viscoelastic memory replaces the full load-history convolution in 1-D GIA solvers with recursively updated relaxation states,
-reducing the history-dependent cost from O(N^2) to O(N). The resulting solver, SLEvolve, matches conventional solvers to machine precision with up to 4,000-fold acceleration,
+reducing the history-dependent cost from O(N^2) to O(N). SLEvolve matches conventional solvers to machine precision with up to 4,000-fold acceleration,
 opening the door to systematic exploration of ice histories and mantle viscosity.
 
-<!-- TODO: rewrite and add figure -->
+![How much faster SLEvolve runs than a conventional sea-level solver (a), and how long each takes (b), as the number of time steps grows. The speed-up keeps increasing with longer simulations, turning computations that took days into minutes. From @Bao2026c](assets/slevolve_fig4_scaling.png){fig-cap-location="bottom"}
+
+- Collaborations on the consequences of ice loss for people and the geological record [@b7Lucas2025a;@Powell2026;@Sylvie2026]:
+Antarctic land and mineral-resource emergence in a warming world [@b7Lucas2025a], amplified sea-level rise in small island developing states [@Powell2026],
+and early Pleistocene Red Sea shorelines linked to hominin dispersal out of Africa [@Sylvie2026].
+
+![Antarctic land that could become ice-free by 2300 under a high ice-melt scenario, shown with national territorial claims (outer arcs) and known mineral occurrences (symbols). From @b7Lucas2025a](assets/lucas2026_fig6_land_minerals.png){fig-cap-location="bottom"}
 
 - Volatile cycling among different spheres of the Earth system over billions of years [@b6Bao2023d]
 

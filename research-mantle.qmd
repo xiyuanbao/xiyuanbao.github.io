@@ -29,17 +29,17 @@ and subduction zones [@a0Li2023].
 source entrainment and surface expressions [@Bao2024a;@b7Bao2023c;@b3Bao2025g].  
 
 ![Rising lab plumes imaged by bubbles from a rigid half sphere, 
-representing an end-member scenario of the Large Low Shear Velocity Province.](gallery/plume_side_llsvp.jpg){fig-cap-location="bottom"}
+representing an end-member scenario of the Large Low Shear Velocity Province. From @Bao2024PhD](gallery/plume_side_llsvp.jpg){fig-cap-location="bottom"}
 
 
 - Constraining the distribution of deep mantle heterogeneities and rheological properties [@a7Bao2025a;@bao2024giant].
 Using a graph-theory framework to trace plausible plume pathways through seismic tomography, and clustering them jointly with lava isotopes, we built the first joint geophysical-geochemical zoning map of the lowermost mantle beneath East Africa and the Indian Ocean, resolving at least three domains within the African LLSVP [@a7Bao2025a].
 
-<!-- TODO: rewrite and add figure (e.g. posts/Graph-theory-plume-paper/section3d_real.png) -->
+![Seven ways scientists have pictured the deep mantle beneath East Africa and the Indian Ocean, from a single giant plume to many separate sources. Our map tests these ideas against both seismic images and lava chemistry. From @a7Bao2025a](posts/Graph-theory-plume-paper/concepts.jpg){fig-cap-location="bottom"}
 
 - Structural controls on the properties of mantle minerals and melts, e.g. what makes MgSiO3 liquid resemble its crystalline polymorphs at the atomic scale [@Acquadro2026].
 
-<!-- TODO: rewrite and add figure -->
+![The many forms of MgSiO3, the most abundant mineral in Earth's mantle, across pressure and temperature. Each box shows how magnesium (orange), silicon (blue) and oxygen (red) are arranged in a crystal, or in the liquid at the top. From @Acquadro2026](assets/acquadro2026_fig2_mgsio3_phases.jpg){fig-cap-location="bottom"}
 
 ![Mantle rocks deform like viscous fluid over geological time-scales.](assets/rheology.jpeg){fig-cap-location="bottom"}
 

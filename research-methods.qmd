@@ -40,11 +40,13 @@ and reconstruction of unmeasured temperature field (right) Ra=1e6~1e8](gallery/P
  with physics-informed neural networks (PINNs) [@Bao2024PhD] 
  and neural operators [@a7Bao2025b]. 
 
+![Architecture of PI-DIFNO, a physics-informed neural operator that works directly on scattered ocean and ice points. The lower block learns the map from one field to another; the upper block passes the prediction through a frozen forward model and checks that it reproduces the input, so that the physics constrains the learning. From @a7Bao2025b](assets/greenland_fno_fig2_pidifno.png){fig-cap-location="bottom"}
+
 - Fast physics-based solvers as the foundation for emulators [@Bao2026c].
-SLEvolve, a new sea-level solver built on an exact finite-state representation of viscoelastic memory, was implemented and optimized with AI coding agents under my direction
+[SLEvolve](https://github.com/xiyuanbao/slevolve), a new sea-level solver built on an exact finite-state representation of viscoelastic memory, was implemented and optimized with AI coding agents under my direction
 and reaches up to 4,000-fold speed-up over conventional GIA solvers at machine precision.
 
-<!-- TODO: rewrite and add figure -->
+![Workflow of SLEvolve compared with a conventional solver. Instead of re-reading the whole loading history at every step, SLEvolve carries a compact memory state forward in time; the numbered orange boxes mark the new shortcuts. From @Bao2026c](assets/slevolve_fig2_workflow.png){fig-cap-location="bottom"}
 
 ![3D view of a numerical simulation of Rayleigh Benard convection 
 at Ra=1e5, viscosity contrast up to 10 (hotter less viscous)](assets/PINN1.png)
