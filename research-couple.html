@@ -203,42 +203,61 @@ gtag('config', 'G-HLNN6RB67D', { 'anonymize_ip': true});
 <p>How do surface processes shape the environment we live in, and how do they interact with the solid Earth interior, with implications for planetary evolution and habitability?</p>
 <p>My work on surface processes and interior-surface coupling focuses on:</p>
 <ul>
-<li>The interplay among sea level change, cryosphere, and the solid Earth <span class="citation" data-cites="a7Bao2025b b7Lucas2025a b5Coulson2025a Powell2026 Sylvie2026">(<a href="#ref-a7Bao2025b" role="doc-biblioref">Bao et al. submitted</a>; <a href="#ref-b7Lucas2025a" role="doc-biblioref">Lucas et al. 2026</a>; <a href="#ref-b5Coulson2025a" role="doc-biblioref">Coulson et al. 2026</a>; <a href="#ref-Powell2026" role="doc-biblioref">Powell et al. 2026</a>; <a href="#ref-Sylvie2026" role="doc-biblioref">Wurmser et al. Under review at PNAS</a>)</span>. Ice-mass redistribution perturbs Earth’s gravity, rotation and solid surface and drives geographically variable sea-level change. Building on an inversion of sea-surface height for Greenland ice mass change <span class="citation" data-cites="b5Coulson2025a">(<a href="#ref-b5Coulson2025a" role="doc-biblioref">Coulson et al. 2026</a>)</span>, I developed a physics-informed neural operator that estimates ice loss from sea-level fingerprints and revealed scale-dependent limits on what can be recovered <span class="citation" data-cites="a7Bao2025b">(<a href="#ref-a7Bao2025b" role="doc-biblioref">Bao et al. submitted</a>)</span>. Related collaborations address Antarctic land and mineral-resource emergence <span class="citation" data-cites="b7Lucas2025a">(<a href="#ref-b7Lucas2025a" role="doc-biblioref">Lucas et al. 2026</a>)</span>, amplified sea-level rise in small island developing states <span class="citation" data-cites="Powell2026">(<a href="#ref-Powell2026" role="doc-biblioref">Powell et al. 2026</a>)</span>, and early Pleistocene Red Sea shorelines linked to hominin dispersal <span class="citation" data-cites="Sylvie2026">(<a href="#ref-Sylvie2026" role="doc-biblioref">Wurmser et al. Under review at PNAS</a>)</span>.</li>
+<li>The interplay among sea level change, cryosphere, and the solid Earth <span class="citation" data-cites="b5Coulson2025a a7Bao2025b">(<a href="#ref-b5Coulson2025a" role="doc-biblioref">Coulson et al. 2026</a>; <a href="#ref-a7Bao2025b" role="doc-biblioref">Bao et al. submitted</a>)</span>. Ice-mass redistribution perturbs Earth’s gravity, rotation and solid surface and drives geographically variable sea-level change, a pattern known as a sea-level fingerprint. Building on an inversion of sea-surface height for Greenland ice mass change <span class="citation" data-cites="b5Coulson2025a">(<a href="#ref-b5Coulson2025a" role="doc-biblioref">Coulson et al. 2026</a>)</span>, I developed a physics-informed neural operator (PI-DIFNO) that estimates ice loss directly from sea-level fingerprints and revealed scale-dependent limits on what can be recovered <span class="citation" data-cites="a7Bao2025b">(<a href="#ref-a7Bao2025b" role="doc-biblioref">Bao et al. submitted</a>)</span>.</li>
 </ul>
-<!-- TODO: rewrite and add figure -->
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="assets/fingerprint_coulson.png" class="img-fluid figure-img"></p>
 <figcaption>Predicted (left) and observed (right) sea levels caused by melting of the Greenland Ice Sheet (GrIS). A statistically significant correlation between the two fields (P &lt; 0.001) provides an unambiguous observational detection of the near-field sea level fingerprint of recent GrIS melting in our warming world. Graphic: Coulson, et al., 2022 / Science</figcaption>
 </figure>
 </div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/greenland_fno_fig4_inverse.png" class="img-fluid figure-img"></p>
+<figcaption>Teaching a neural network to read ice loss from the ocean. Each row starts from a sea-level pattern (left), and the network recovers the Greenland ice-thickness change that produced it (middle), compared with the truth and the error (right). Smooth, large-scale ice loss is recovered almost perfectly, while fine coastal detail is harder to see from the ocean. From <span class="citation" data-cites="a7Bao2025b">Bao et al. (<a href="#ref-a7Bao2025b" role="doc-biblioref">submitted</a>)</span></figcaption>
+</figure>
+</div>
 <ul>
-<li>Accelerated glacial isostatic adjustment (GIA) modeling <span class="citation" data-cites="Bao2026c">(<a href="#ref-Bao2026c" role="doc-biblioref">Bao et al. submitted</a>)</span>. An exact finite-state representation of viscoelastic memory replaces the full load-history convolution in 1-D GIA solvers with recursively updated relaxation states, reducing the history-dependent cost from O(N^2) to O(N). The resulting solver, SLEvolve, matches conventional solvers to machine precision with up to 4,000-fold acceleration, opening the door to systematic exploration of ice histories and mantle viscosity.</li>
+<li>Accelerated glacial isostatic adjustment (GIA) modeling with <a href="https://github.com/xiyuanbao/slevolve">SLEvolve</a> <span class="citation" data-cites="Bao2026c">(<a href="#ref-Bao2026c" role="doc-biblioref">Bao et al. submitted</a>)</span>. An exact finite-state representation of viscoelastic memory replaces the full load-history convolution in 1-D GIA solvers with recursively updated relaxation states, reducing the history-dependent cost from O(N^2) to O(N). SLEvolve matches conventional solvers to machine precision with up to 4,000-fold acceleration, opening the door to systematic exploration of ice histories and mantle viscosity.</li>
 </ul>
-<!-- TODO: rewrite and add figure -->
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/slevolve_fig4_scaling.png" class="img-fluid figure-img"></p>
+<figcaption>How much faster SLEvolve runs than a conventional sea-level solver (a), and how long each takes (b), as the number of time steps grows. The speed-up keeps increasing with longer simulations, turning computations that took days into minutes. From <span class="citation" data-cites="Bao2026c">Bao et al. (<a href="#ref-Bao2026c" role="doc-biblioref">submitted</a>)</span></figcaption>
+</figure>
+</div>
+<ul>
+<li>Collaborations on the consequences of ice loss for people and the geological record <span class="citation" data-cites="b7Lucas2025a Powell2026 Sylvie2026">(<a href="#ref-b7Lucas2025a" role="doc-biblioref">Lucas et al. 2026</a>; <a href="#ref-Powell2026" role="doc-biblioref">Powell et al. 2026</a>; <a href="#ref-Sylvie2026" role="doc-biblioref">Wurmser et al. Under review at PNAS</a>)</span>: Antarctic land and mineral-resource emergence in a warming world <span class="citation" data-cites="b7Lucas2025a">(<a href="#ref-b7Lucas2025a" role="doc-biblioref">Lucas et al. 2026</a>)</span>, amplified sea-level rise in small island developing states <span class="citation" data-cites="Powell2026">(<a href="#ref-Powell2026" role="doc-biblioref">Powell et al. 2026</a>)</span>, and early Pleistocene Red Sea shorelines linked to hominin dispersal out of Africa <span class="citation" data-cites="Sylvie2026">(<a href="#ref-Sylvie2026" role="doc-biblioref">Wurmser et al. Under review at PNAS</a>)</span>.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/lucas2026_fig6_land_minerals.png" class="img-fluid figure-img"></p>
+<figcaption>Antarctic land that could become ice-free by 2300 under a high ice-melt scenario, shown with national territorial claims (outer arcs) and known mineral occurrences (symbols). From <span class="citation" data-cites="b7Lucas2025a">Lucas et al. (<a href="#ref-b7Lucas2025a" role="doc-biblioref">2026</a>)</span></figcaption>
+</figure>
+</div>
 <ul>
 <li>Volatile cycling among different spheres of the Earth system over billions of years <span class="citation" data-cites="b6Bao2023d">(<a href="#ref-b6Bao2023d" role="doc-biblioref">Bao et al. In preparation</a>)</span></li>
 </ul>
 <section id="related-work" class="level2">
 <h2 class="anchored" data-anchor-id="related-work">Related Work</h2>
 <div id="refs" class="references csl-bib-body" role="list">
-<div id="ref-a7Bao2025b" class="csl-entry" role="listitem">
-<div class="csl-left-margin">1. </div><div class="csl-right-inline">Bao, Xiyuan, Sophie Coulson, Natasha Valencic, Mostafa Mousavi, Sönke Dangendorf, Andrew Lloyd, and Jerry Mitrovica. submitted. <span>“Neural operators reveal scale-dependent limits on recovering greenland ice loss from sea-level fingerprints.”</span> <a href="https://xiyuanbao.github.io/papers/greenland-fno/">https://xiyuanbao.github.io/papers/greenland-fno/. </a></div>
-</div>
-<div id="ref-b7Lucas2025a" class="csl-entry" role="listitem">
-<div class="csl-left-margin">2. </div><div class="csl-right-inline">Lucas, Erica, Fred Richards, Gabriel Cederberg, Xiyuan Bao, Mark J. Hoggard, Stephen R. J. Tsuji, et al. 2026. <span>“<a href="https://doi.org/10.1038/s41558-026-02569-1">Emergence of antarctic mineral resources in a warming world.</a>”</span> <em>Nature Climate Change</em></div>
-</div>
 <div id="ref-b5Coulson2025a" class="csl-entry" role="listitem">
-<div class="csl-left-margin">3. </div><div class="csl-right-inline">Coulson, Sophie, Andrew Lloyd, Xiyuan Bao, Jerry X. Mitrovica, Sönke Dangendorf, Linda Pan, et al. 2026. <span>“<a href="https://doi.org/10.1093/gji/ggag187">Inverting sea surface height data yields greenland ice mass changes (1993-2019): A proof of concept</a>.”</span> <em>Geophysical Journal International</em></div>
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">Coulson, Sophie, Andrew Lloyd, Xiyuan Bao, Jerry X. Mitrovica, Sönke Dangendorf, Linda Pan, et al. 2026. <span>“<a href="https://doi.org/10.1093/gji/ggag187">Inverting sea surface height data yields greenland ice mass changes (1993-2019): A proof of concept</a>.”</span> <em>Geophysical Journal International</em></div>
 </div>
-<div id="ref-Powell2026" class="csl-entry" role="listitem">
-<div class="csl-left-margin">4. </div><div class="csl-right-inline">Powell, Robert, Gabriel Cederberg, Sönke Dangendorf, Erica Lucas, Xiyuan Bao, Jessica Creveling, et al. 2026. <span>“<a href="https://doi.org/10.1038/s43247-026-04132-4">Disproportionate sea level rise in small island developing states of the pacific and indian oceans driven by greenland and antarctic ice mass loss</a>.”</span> <em>Communications Earth &amp; Environment</em></div>
-</div>
-<div id="ref-Sylvie2026" class="csl-entry" role="listitem">
-<div class="csl-left-margin">5. </div><div class="csl-right-inline">Wurmser, Sylvie S., Manar Al Asad, Xiyuan Bao, Jessica Creveling, Jerry X. Mitrovica, and Christian A. Tryon. Under review at PNAS. <span>“Reopening the southern gate: Early pleistocene sea level and hominin dispersal across the red sea.”</span> </div>
+<div id="ref-a7Bao2025b" class="csl-entry" role="listitem">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">Bao, Xiyuan, Sophie Coulson, Natasha Valencic, Mostafa Mousavi, Sönke Dangendorf, Andrew Lloyd, and Jerry Mitrovica. submitted. <span>“Neural operators reveal scale-dependent limits on recovering greenland ice loss from sea-level fingerprints.”</span> <a href="https://xiyuanbao.github.io/papers/greenland-fno/">https://xiyuanbao.github.io/papers/greenland-fno/. </a></div>
 </div>
 <div id="ref-Bao2026c" class="csl-entry" role="listitem">
-<div class="csl-left-margin">6. </div><div class="csl-right-inline">Bao, Xiyuan, Mostafa Mousavi, Konstantin Latychev, and Jerry Mitrovica. submitted. <span>“An exact finite-state representation of viscoelastic memory for accelerated sea-level modeling: SLEvolve v1.0.”</span> <a href="https://xiyuanbao.github.io/papers/slevolve/">https://xiyuanbao.github.io/papers/slevolve/. </a></div>
+<div class="csl-left-margin">3. </div><div class="csl-right-inline">Bao, Xiyuan, Mostafa Mousavi, Konstantin Latychev, and Jerry Mitrovica. submitted. <span>“An exact finite-state representation of viscoelastic memory for accelerated sea-level modeling: SLEvolve v1.0.”</span> <a href="https://xiyuanbao.github.io/papers/slevolve/">https://xiyuanbao.github.io/papers/slevolve/. </a></div>
+</div>
+<div id="ref-b7Lucas2025a" class="csl-entry" role="listitem">
+<div class="csl-left-margin">4. </div><div class="csl-right-inline">Lucas, Erica, Fred Richards, Gabriel Cederberg, Xiyuan Bao, Mark J. Hoggard, Stephen R. J. Tsuji, et al. 2026. <span>“<a href="https://doi.org/10.1038/s41558-026-02569-1">Emergence of antarctic mineral resources in a warming world.</a>”</span> <em>Nature Climate Change</em></div>
+</div>
+<div id="ref-Powell2026" class="csl-entry" role="listitem">
+<div class="csl-left-margin">5. </div><div class="csl-right-inline">Powell, Robert, Gabriel Cederberg, Sönke Dangendorf, Erica Lucas, Xiyuan Bao, Jessica Creveling, et al. 2026. <span>“<a href="https://doi.org/10.1038/s43247-026-04132-4">Disproportionate sea level rise in small island developing states of the pacific and indian oceans driven by greenland and antarctic ice mass loss</a>.”</span> <em>Communications Earth &amp; Environment</em></div>
+</div>
+<div id="ref-Sylvie2026" class="csl-entry" role="listitem">
+<div class="csl-left-margin">6. </div><div class="csl-right-inline">Wurmser, Sylvie S., Manar Al Asad, Xiyuan Bao, Jessica Creveling, Jerry X. Mitrovica, and Christian A. Tryon. Under review at PNAS. <span>“Reopening the southern gate: Early pleistocene sea level and hominin dispersal across the red sea.”</span> </div>
 </div>
 <div id="ref-b6Bao2023d" class="csl-entry" role="listitem">
 <div class="csl-left-margin">7. </div><div class="csl-right-inline">Bao, Xiyuan, Zebin Cao, Kenneth Christopher Gourley, Sara Gutierrez, Yuanyuan Liang, Dongyuan Zhou, et al. In preparation. <span>“Coupled evolution of earth’s hydrogen distribution and thermal history.”</span> </div>
