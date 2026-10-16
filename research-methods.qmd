@@ -13,7 +13,7 @@ I am also very interested in developing and applying novel methodologies, includ
 Specifically, I focus on:
 
 
-- State-of-the-art laboratory fluid dynamic experiments
+- **4D laboratory measurements.** State-of-the-art laboratory fluid dynamic experiments
  and analysis workflow tailored for viscous convection
   applicable to planetary interiors [@Bao2024a;@b7Bao2023c;@b3Bao2025g].
   They are based on real-world physics and especially suitable 
@@ -22,7 +22,7 @@ Specifically, I focus on:
 ![Cartoon of the 3D-scanning Stereoscopic Particle Image Velocimetry (SSPIV) system I built at UCLA](gallery/lab_video_trimmed3x.mp4)
 
 
-- Digital twins of lab experiments based on a hybrid-adjoint method [@Bao2024PhD].
+- **Digital twins.** Digital twins of lab experiments based on a hybrid-adjoint method [@Bao2024PhD].
 These fully quantified numerical models are tightly constrained
  by 4D lab measurements, but they further extend
  the results in space and time and even to unmeasured quantities. 
@@ -32,7 +32,7 @@ full velocity reconstructed with hybrid-adjoint (middle),
 and reconstruction of unmeasured temperature field (right) Ra=1e6~1e8](gallery/PIV_31.mp4)
 
 
-- Machine learning and AI methods to analyze, simulate
+- **Machine learning and neural operators.** Machine learning and AI methods to analyze, simulate
  and invert complex geophysical systems. 
  These include data mining from 
  geophysical and geochemical data [@c1Bao2022;@aBao2024a;@a7Bao2025a] and machine-learned local atomic environments of mantle minerals and melts [@Acquadro2026], 
@@ -42,7 +42,7 @@ and reconstruction of unmeasured temperature field (right) Ra=1e6~1e8](gallery/P
 
 ![Architecture of PI-DIFNO, a physics-informed neural operator that works directly on scattered ocean and ice points. The lower block learns the map from one field to another; the upper block passes the prediction through a frozen forward model and checks that it reproduces the input, so that the physics constrains the learning. From @a7Bao2025b](assets/greenland_fno_fig2_pidifno.png){fig-cap-location="bottom"}
 
-- Fast physics-based solvers as the foundation for emulators [@Bao2026c].
+- **AI-agent-assisted scientific code modernization.** Fast physics-based solvers as the foundation for emulators [@Bao2026c].
 [SLEvolve](https://github.com/xiyuanbao/slevolve), a new sea-level solver built on an exact finite-state representation of viscoelastic memory, was implemented and optimized with AI coding agents under my direction
 and reaches up to 4,000-fold speed-up over conventional GIA solvers at machine precision.
 
