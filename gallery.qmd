@@ -1,17 +1,26 @@
 ---
 title: "Gallery"
+lightbox: auto
 ---
 
-![A thermal plume imaged by shadowgraph](gallery/plume_shadow.jpg){fig-cap-location="bottom"}
+Images and videos from my laboratory experiments and simulations of mantle plumes. Click an image to enlarge it.
 
-![Plumes and background stirring imaged by Particle Image Velocimetry](gallery/TEST-E50_C0_F0_S8_3936418.jpg)
+::: {.gallery-grid layout-ncol=2}
 
-![Sterocscopic view of an illumated plane with thermal plumes](gallery/nomirror_S7_2cam_convert.mp4)
+![A thermal plume imaged by shadowgraph](gallery/plume_shadow.jpg)
 
-![Onset of convection imaged by thermochrmic liquid crystals](gallery/VID_20190812_113819.mp4)
+![Plumes and background stirring imaged by particle image velocimetry](gallery/TEST-E50_C0_F0_S8_3936418.jpg)
 
+![Rising lab plumes imaged by bubbles from a rigid half sphere](gallery/plume_side_llsvp.jpg)
 
-![Finite-Time Lyapunov Exponent (FTLE, left panel) field and plume clusters (right panel) showing dozens of plumes](gallery/FTLE_cluster_time3x.mp4)
+![Stereoscopic view of an illuminated plane with thermal plumes](gallery/nomirror_S7_2cam_convert.mp4)
+
+![Onset of convection imaged by thermochromic liquid crystals](gallery/VID_20190812_113819.mp4)
+
+![Finite-time Lyapunov exponent field (left) and plume clusters (right) showing dozens of plumes](gallery/FTLE_cluster_time3x.mp4)
+
+:::
+
+### Visualizing a plume with thermochromic liquid crystals
 
 {{< video https://www.youtube.com/embed/a0M8bkV454g >}}
-Visualize a plume with Thermochromic Liquid Crystals (TLCs)

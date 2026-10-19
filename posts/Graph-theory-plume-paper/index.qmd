@@ -1,13 +1,13 @@
 ---
 title: "Mapping the hidden geography of Earth's deep mantle using graph theory and AI"
-image: section3d_real.png
+image: section3d_real.jpg
 date: 2026-09-04
 ---
 
 Our new study in [*Science*](https://www.science.org/eprint/JTMQ8ZYHF7UIWGFKZAHD/full?activationRedirect=/doi/full/10.1126/science.aea5466) uses graph theory to trace plausible mantle-plume pathways through seismic tomography beneath East Africa and the Indian Ocean.
 By comparing these pathways with independent geochemicial data with AI-based clustering analysis, we identify at least three compositionally distinct source regions within the African LLSVP and construct the first joint geophysical-geochemical zoning map of the lowermost mantle in this region.
 
-![Earth cut open beneath East Africa and the Indian Ocean, from the surface to the core-mantle boundary about 3,000 km below. Orange clouds show seismically slow, plume-like mantle; colored lines show the best plume paths identified using graph theory, connecting hotspot volcanism to deep source regions.](section3d_real.png)
+![Earth cut open beneath East Africa and the Indian Ocean, from the surface to the core-mantle boundary about 3,000 km below. Orange clouds show seismically slow, plume-like mantle; colored lines show the best plume paths identified using graph theory, connecting hotspot volcanism to deep source regions.](section3d_real.jpg)
 
 ![Seven conceptual models are shown from left to right, with their names and example references below.](concepts.jpg)
 

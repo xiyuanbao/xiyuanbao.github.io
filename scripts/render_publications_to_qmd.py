@@ -145,6 +145,7 @@ def fmt_entry(e, category: str) -> str:
     if is_published:
         if doi:
             link_target = f"https://doi.org/{doi}"
+            label = "DOI"
         elif url:
             link_target = url
     elif url:
@@ -186,7 +187,16 @@ def render():
         if not entries:
             lines.append("_No entries._\n\n")
             continue
+        group_by_year = heading.lower().startswith("published")
+        current_year = None
         for e in entries:
+            if group_by_year:
+                year = (e.get("year", "") or "").strip()
+                if year != current_year:
+                    if current_year is not None:
+                        lines.append("\n")
+                    lines.append(f"### {year}\n")
+                    current_year = year
             lines.append(f"- {fmt_entry(e, heading)}\n")
         lines.append("\n")
     OUT.write_text("\n".join(lines), encoding="utf-8")

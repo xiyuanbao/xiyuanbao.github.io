@@ -44,13 +44,50 @@ listing:
 :::
 
 ::: {.right-col}
-I received my PhD in geophysics from UCLA and currently I am a Gordon and Betty Moore Foundation Postdoctoral Fellow at Harvard University.
-I study the coupled dynamics of Earth's interior and surface through the lenses of fire and ice—from mantle plumes to sea-level rise—with simulations, experiments and machine learning. Learn more on the [Research](research.qmd) page.
+::: {.home-hero}
+[Fire and ice: how Earth's deep interior shapes its surface]{.hero-tagline}
+
+I study the coupled dynamics of Earth's interior and surface, from mantle plumes to sea-level rise, with simulations, experiments and machine learning.
+I am a Gordon and Betty Moore Foundation Postdoctoral Fellow at Harvard University, with a PhD in geophysics from UCLA.
+
+Learn more on the [Research](research.qmd) page.
+:::
 
 
 
 
 
+
+::: {.section-card}
+### Featured work
+
+```{=html}
+<div class="featured-grid">
+  <a class="featured-item" href="https://doi.org/10.1126/science.aea5466" target="_blank" rel="noopener">
+    <img src="assets/thumbs/science2026.jpg" alt="Plume paths through the deep mantle beneath East Africa" loading="lazy">
+    <span class="featured-meta">Science · 2026</span>
+    <span class="featured-title">A joint geophysical–geochemical map of the deep mantle beneath East Africa and the Indian Ocean</span>
+  </a>
+  <a class="featured-item" href="https://doi.org/10.1126/science.abj8944" target="_blank" rel="noopener">
+    <img src="assets/thumbs/science2022.jpg" alt="Global map of hotspot temperatures" loading="lazy">
+    <span class="featured-meta">Science · 2022</span>
+    <span class="featured-title">Not all hotspots are hot: the relative temperatures of hotspots and mid-ocean ridges</span>
+  </a>
+  <a class="featured-item" href="https://arxiv.org/abs/2610.23748" target="_blank" rel="noopener">
+    <img src="assets/thumbs/greenland.jpg" alt="True and recovered Greenland ice change" loading="lazy">
+    <span class="featured-meta">arXiv · 2026</span>
+    <span class="featured-title">Neural operators reveal how much Greenland ice loss sea level fingerprint can recover</span>
+  </a>
+  <a class="featured-item" href="https://arxiv.org/abs/2610.23762" target="_blank" rel="noopener">
+    <img src="assets/thumbs/slevolve.jpg" alt="SLEvolve speed-up against number of time steps" loading="lazy">
+    <span class="featured-meta">arXiv · 2026 · Code</span>
+    <span class="featured-title">SLEvolve: up to 4,000-fold faster sea-level modeling</span>
+  </a>
+</div>
+```
+
+See all on the [Publications](publications.qmd) page.
+:::
 
 ::: {.section-card}
 ### News

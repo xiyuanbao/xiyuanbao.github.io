@@ -6,7 +6,7 @@ nocite: |
   @*
 ---
 
-![A thermal plume in syrup imaged by thermochromic liquid crystal. Credit: Carolina Lithgow-bertelloni](assets/TLC.png)
+![A thermal plume in syrup imaged by thermochromic liquid crystal. Credit: Carolina Lithgow-bertelloni](assets/TLC.jpg)
 
 I am also very interested in developing and applying novel methodologies, including both end-to-end and generalizable approaches to address various challenging problems in geophysics.
 
@@ -49,7 +49,7 @@ and reaches up to 4,000-fold speed-up over conventional GIA solvers at machine p
 ![Workflow of SLEvolve compared with a conventional solver. Instead of re-reading the whole loading history at every step, SLEvolve carries a compact memory state forward in time; the numbered orange boxes mark the new shortcuts. From @Bao2026c](assets/slevolve_fig2_workflow.png){fig-cap-location="bottom"}
 
 ![3D view of a numerical simulation of Rayleigh Benard convection 
-at Ra=1e5, viscosity contrast up to 10 (hotter less viscous)](assets/PINN1.png)
+at Ra=1e5, viscosity contrast up to 10 (hotter less viscous)](assets/PINN1.jpg)
 
 ![2D central-plane view of the simulation above. Left panel is prediction from PINNs, right is the misfit from the reference simulation.](assets/PINN2.png)
 

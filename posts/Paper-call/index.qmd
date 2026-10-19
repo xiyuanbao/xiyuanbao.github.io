@@ -1,10 +1,10 @@
 ---
 title: "Call for Papers in Machine Learning and Geosciences"
-image: MLG.png
+image: MLG.jpg
 date: 2025-11-30
 ---
 
-![](MLG.png)
+![](MLG.jpg)
 
 PNAS Nexus, the sister journal of PNAS (a gold open-access journal), has announced a call for papers for a special issue on “Machine Learning and Geosciences.” No publication fees will be charged. Submissions are welcome on the application and methodological advancement of machine learning in geosciences. The journal targets a broad scientific audience and encourages interdisciplinary research with wide impact. Accepted papers will be published online on a rolling basis.
 This special issue will be co-edited by Barbara Romanowicz (UC Berkeley) and Xiyuan Bao (Harvard). The submission deadline is March 15, 2026.

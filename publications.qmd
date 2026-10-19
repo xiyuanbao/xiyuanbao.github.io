@@ -1,6 +1,9 @@
 ---
 title: "Publications"
 page-layout: article
+toc-depth: 2
 ---
 
+::: {.pub-list}
 {{< include _generated/publications_body.qmd >}}
+:::

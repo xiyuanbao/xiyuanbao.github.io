@@ -25,7 +25,7 @@ Building on an inversion of sea-surface height for Greenland ice mass change [@b
 I developed a physics-informed neural operator (PI-DIFNO) that estimates ice loss directly from sea-level fingerprints and revealed scale-dependent limits on what can be recovered [@a7Bao2025b].
 
 ![Predicted (left) and observed (right) sea levels caused by melting of the Greenland Ice Sheet (GrIS). A statistically significant correlation between the two fields (P < 0.001) provides an unambiguous observational detection of the near-field sea level fingerprint of recent GrIS melting in our warming world. Graphic: Coulson, et al., 2022 / Science
-](assets/fingerprint_coulson.png)
+](assets/fingerprint_coulson.jpg)
 
 ![Teaching a neural network to read ice loss from the ocean. Each row starts from a sea-level pattern (left), and the network recovers the Greenland ice-thickness change that produced it (middle), compared with the truth and the error (right). Smooth, large-scale ice loss is recovered almost perfectly, while fine coastal detail is harder to see from the ocean. From @a7Bao2025b](assets/greenland_fno_fig4_inverse.png){fig-cap-location="bottom"}
 
