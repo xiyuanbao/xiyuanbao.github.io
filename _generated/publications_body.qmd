@@ -4,11 +4,11 @@
 
 ### 2026
 
-- Powell, Robert, Cederberg, Gabriel, Dangendorf, Sönke, Lucas, Erica, **Bao, Xiyuan**, Creveling, Jessica, Tsuji, Steven, Tsuji, Leonard and Mitrovica, Jerry X. (2026). *Disproportionate sea level rise in small island developing states of the Pacific and Indian Oceans driven by Greenland and Antarctic ice mass loss.* **Communications Earth \& Environment**. [DOI](https://doi.org/10.1038/s43247-026-04132-4)
-
 - **Bao, Xiyuan** and Lithgow-Bertelloni, Carolina R. (2026). *Morphology, interactions, and evolution of laminar thermal plumes revealed by four-dimensional velocity measurements and analysis: Application to Earth's mantle.* **Geochemistry, Geophysics, Geosystems**. Accepted. [arXiv](https://arxiv.org/abs/2609.33042)
 
 - **Bao, Xiyuan** and Lithgow-Bertelloni, Carolina R. (2026). *A method for measuring and analyzing four-dimensional flow fields in viscous Rayleigh-Benard Convection.* **Geochemistry, Geophysics, Geosystems**. Accepted. [arXiv](https://arxiv.org/abs/2609.33036)
+
+- Powell, Robert, Cederberg, Gabriel, Dangendorf, Sönke, Lucas, Erica, **Bao, Xiyuan**, Creveling, Jessica, Tsuji, Steven, Tsuji, Leonard and Mitrovica, Jerry X. (2026). *Disproportionate sea level rise in small island developing states of the Pacific and Indian Oceans driven by Greenland and Antarctic ice mass loss.* **Communications Earth \& Environment**. [DOI](https://doi.org/10.1038/s43247-026-04132-4)
 
 - Acquadro, Jake, **Bao, Xiyuan** and Deng, Jie (2026). *Local atomic environments reveal structural controls on MgSiO3 liquid-crystal similarity.* **PNAS Nexus**. [DOI](https://doi.org/10.1093/pnasnexus/pgag347)
 

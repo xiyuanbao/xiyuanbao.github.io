@@ -83,6 +83,16 @@ Learn more on the [Research](research.qmd) page.
     <span class="featured-meta">arXiv · 2026 · Code</span>
     <span class="featured-title">SLEvolve: up to 4,000-fold faster sea-level modeling</span>
   </a>
+  <a class="featured-item" href="https://arxiv.org/abs/2609.33036" target="_blank" rel="noopener">
+    <img src="assets/thumbs/g3_method.jpg" alt="Stereoscopic particle image velocimetry rig with a tank of viscous fluid" loading="lazy">
+    <span class="featured-meta">G-cubed · 2026</span>
+    <span class="featured-title">Measuring 4D viscous convection applicable to planetary interiors in the laboratory</span>
+  </a>
+  <a class="featured-item" href="https://arxiv.org/abs/2609.33042" target="_blank" rel="noopener">
+    <img src="assets/thumbs/g3_plumes.jpg" alt="Tracked clusters of laboratory thermal plumes in 3D" loading="lazy">
+    <span class="featured-meta">G-cubed · 2026</span>
+    <span class="featured-title">Systematic evolutionary pathways of viscous plumes tracked in the laboratory</span>
+  </a>
 </div>
 ```
 
