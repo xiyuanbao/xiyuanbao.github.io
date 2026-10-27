@@ -148,6 +148,8 @@ def fmt_entry(e, category: str) -> str:
             label = "DOI"
         elif url:
             link_target = url
+            if "arxiv.org" in url.lower():
+                label = "arXiv"
     elif url:
         link_target = url
         label = "arXiv"
@@ -161,6 +163,9 @@ def fmt_entry(e, category: str) -> str:
         pieces.append(f"*{ensure_terminal_punctuation(title)}*")
     if journal:
         pieces.append(f"**{journal}**.")
+    pubstate = (e.get("pubstate", "") or "").strip()
+    if pubstate:
+        pieces.append(f"{pubstate}.")
 
     if category.lower().startswith("manuscripts submitted"):
         extra = howpub or note

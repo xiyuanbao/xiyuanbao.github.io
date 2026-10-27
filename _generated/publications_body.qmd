@@ -6,6 +6,10 @@
 
 - Powell, Robert, Cederberg, Gabriel, Dangendorf, Sönke, Lucas, Erica, **Bao, Xiyuan**, Creveling, Jessica, Tsuji, Steven, Tsuji, Leonard and Mitrovica, Jerry X. (2026). *Disproportionate sea level rise in small island developing states of the Pacific and Indian Oceans driven by Greenland and Antarctic ice mass loss.* **Communications Earth \& Environment**. [DOI](https://doi.org/10.1038/s43247-026-04132-4)
 
+- **Bao, Xiyuan** and Lithgow-Bertelloni, Carolina R. (2026). *Morphology, interactions, and evolution of laminar thermal plumes revealed by four-dimensional velocity measurements and analysis: Application to Earth's mantle.* **Geochemistry, Geophysics, Geosystems**. Accepted. [arXiv](https://arxiv.org/abs/2609.33042)
+
+- **Bao, Xiyuan** and Lithgow-Bertelloni, Carolina R. (2026). *A method for measuring and analyzing four-dimensional flow fields in viscous Rayleigh-Benard Convection.* **Geochemistry, Geophysics, Geosystems**. Accepted. [arXiv](https://arxiv.org/abs/2609.33036)
+
 - Acquadro, Jake, **Bao, Xiyuan** and Deng, Jie (2026). *Local atomic environments reveal structural controls on MgSiO3 liquid-crystal similarity.* **PNAS Nexus**. [DOI](https://doi.org/10.1093/pnasnexus/pgag347)
 
 - **Bao, Xiyuan**, Wamba, Mathurin D. and Stracke, Andreas (2026). *A joint geophysical-geochemical deep-mantle zoning map beneath East Africa and the Indian Ocean.* **Science**. [DOI](https://doi.org/10.1126/science.aea5466)
@@ -47,10 +51,6 @@
 - **Bao, Xiyuan**, Mousavi, Mostafa, Latychev, Konstantin and Mitrovica, Jerry. *An exact finite-state representation of viscoelastic memory for accelerated sea-level modeling: SLEvolve v1.0.* submitted [arXiv](https://arxiv.org/abs/2610.23762)
 
 - **Bao, Xiyuan**, Coulson, Sophie, Valencic, Natasha, Mousavi, Mostafa, Dangendorf, Sönke, Lloyd, Andrew and Mitrovica, Jerry. *Neural Operators Reveal Scale-Dependent Limits on Recovering Greenland Ice Loss from Sea-Level Fingerprints.* submitted [arXiv](https://arxiv.org/abs/2610.23748)
-
-- **Bao, Xiyuan** and Lithgow-Bertelloni, Carolina R.. *A method for measuring and analyzing four-dimensional flow fields in viscous Rayleigh-Benard Convection.* Revision Under Review [arXiv](https://arxiv.org/abs/2609.33036)
-
-- **Bao, Xiyuan** and Lithgow-Bertelloni, Carolina R.. *Morphology, interactions, and evolution of laminar thermal plumes revealed by four-dimensional velocity measurements and analysis: Application to Earth's mantle.* Revision Under Review [arXiv](https://arxiv.org/abs/2609.33042)
 
 - Cai, Ronghua, **Bao, Xiyuan**, Foley, Stephen F., Giuliani, Andrea, Jiang, Shihao, Pearson, D. Graham and Liu, Jingao. *Evidence for a highly fusible fundamental constituent in the convective mantle.* In Revision
 
